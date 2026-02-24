@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-23T09:32:19.903727",
-  "event_count": 13,
+  "last_updated": "2026-02-24T09:01:35.964732",
+  "event_count": 9,
   "events": [
     {
       "category": "Boxing",
@@ -131,58 +131,6 @@
       "visible": true
     },
     {
-      "category": "Olympics Winter",
-      "date": "16/02/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
-      "eventName": "Olympic Winter Sports",
-      "id": 387,
-      "links": [
-        {
-          "api": "6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8",
-          "link": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-v1/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/master.mpd",
-          "name": "USA TV FHD",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
-          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
-          "name": "TNT SPORTS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "",
-          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
-          "name": "CH 1 - IOS",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
-          "link": "https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd",
-          "name": "TSN SPORTS 1",
-          "scheme": 0,
-          "tokenApi": ""
-        },
-        {
-          "api": "e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449",
-          "link": "https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd",
-          "name": "TSN SPORTS 4",
-          "scheme": 0,
-          "tokenApi": ""
-        }
-      ],
-      "teamAFlag": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
-      "teamAName": "Olympic",
-      "teamBFlag": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
-      "teamBName": "Olympic",
-      "time": "07:00:00",
-      "visible": false
-    },
-    {
       "category": "Football",
       "date": "23/02/2026",
       "end_date": "23/02/2026",
@@ -192,8 +140,18 @@
       "id": 388,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+          "name": "CBS Golazo",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
@@ -201,27 +159,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2695/image",
       "teamBName": "Udinese",
       "time": "19:45:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "23/02/2026",
-      "end_date": "23/02/2026",
-      "end_time": "19:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-      "eventName": "Trendyol Süper Lig",
-      "id": 389,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
-      "teamAName": "Fenerbahçe",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-      "teamBName": "Kasımpaşa",
-      "time": "17:00:00",
       "visible": true
     },
     {
@@ -255,8 +192,25 @@
       "id": 391,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+          "name": "Laliga TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "name": "Premier Sports",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "name": "Fancode FHD",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
@@ -264,27 +218,6 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
       "teamBName": "Girona FC",
       "time": "20:00:00",
-      "visible": true
-    },
-    {
-      "category": "Football",
-      "date": "23/02/2026",
-      "end_date": "23/02/2026",
-      "end_time": "19:50:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "eventName": "Serie A",
-      "id": 392,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "teamAName": "Fiorentina",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image",
-      "teamBName": "Pisa",
-      "time": "17:30:00",
       "visible": true
     },
     {
@@ -318,8 +251,39 @@
       "id": 394,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ujnv6vqyts/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd",
+          "name": "FUBO SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-v2.faggotsports.tv/pl_118/207676-6822650-1/chunklist.m3u8|Referer=https://cstream.fit/",
+          "name": "USA NETWORK",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-v2.faggotsports.tv/pl_120/207676-6823160-1/chunklist.m3u8|Referer=https://cstream.fit/",
+          "name": "SKY SPORTS EPL",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-v2.faggotsports.tv/pl_120/207676-6819752-1/chunklist.m3u8|Referer=https://cstream.fit/",
+          "name": "SKY SPORTS NZ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "http://xcarscharge.pro:8080/bn1hevc/mono.m3u8",
+          "name": "beIN ARABIC",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
@@ -330,45 +294,27 @@
       "visible": true
     },
     {
-      "category": "Football",
-      "date": "23/02/2026",
-      "end_date": "23/02/2026",
-      "end_time": "16:20:00",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
-      "eventName": "Indian Super League",
+      "category": "Cricket",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "12:00:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
+      "eventName": "One Day International Women",
       "id": 395,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+          "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/370834/image",
-      "teamAName": "Mohun Bagan Super Giant",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/174590/image",
-      "teamBName": "Chennaiyin FC",
-      "time": "14:00:00",
-      "visible": true
-    },
-    {
-      "category": "Cricket",
-      "date": "23/02/2026",
-      "end_date": "",
-      "end_time": "",
-      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
-      "eventName": "ICC T20 World Cup",
-      "id": 396,
-      "links": [
-        {
-          "link": "https://no.link",
-          "name": "Link 1"
-        }
-      ],
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "teamAName": "Zimbabwe",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-      "teamBName": "West Indies",
-      "time": "13:30:00",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+      "teamAName": "Australia Women",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+      "teamBName": "India Women",
+      "time": "03:50:00",
       "visible": true
     }
   ]
