@@ -1,0 +1,375 @@
+{
+  "last_updated": "2026-02-23T09:32:19.903727",
+  "event_count": 13,
+  "events": [
+    {
+      "category": "Boxing",
+      "date": "28/02/2026",
+      "end_date": "28/02/2026",
+      "end_time": "06:00:00",
+      "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+      "eventName": "Friday Night SmackDown",
+      "id": 20,
+      "links": [
+        {
+          "api": "333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf",
+          "link": "https://gg.poocloud.in/wrestling/index.m3u8|referer=https://ppv.to/&origin=https://ppv.to",
+          "name": "SP ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "dadpremium343,newkso.ru,aHR0cHM6Ly9qeG94a3BsYXkueHl6",
+          "link": "https://red9.lumenlyra.space/playlist/36017/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "SP - 2",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://assets.primesport.com/prod/images/Smackdown%202025%20Updated%20Logo.png",
+      "teamAName": "SmackDown",
+      "teamBFlag": "https://assets.primesport.com/prod/images/Smackdown%202025%20Updated%20Logo.png",
+      "teamBName": "SmackDown",
+      "time": "01:00:00",
+      "visible": true
+    },
+    {
+      "category": "Motorsports",
+      "date": "06/03/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "eventName": "Formula1 - Bahrain Test",
+      "id": 22,
+      "links": [
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=75ea48132cd87cee",
+          "name": "Sky Sports - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+          "name": "Fox Sports - AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8",
+          "name": "Sky F1 SD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=b3fa79aa26476de9",
+          "name": "Sky F1 HD - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=a119bff323d5cdbb",
+          "name": "Sky Sports HD - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8",
+          "name": "Sky F1 DE",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "name": "Fancode AQ",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "teamAName": "Formula 1",
+      "teamBFlag": "https://access-control-center-prod.freevision.live/ss/category/36.png",
+      "teamBName": "Formula 1",
+      "time": "08:15:00",
+      "visible": true
+    },
+    {
+      "category": "Boxing",
+      "date": "24/02/2026",
+      "end_date": "24/02/2026",
+      "end_time": "06:00:00",
+      "eventLogo": "https://static.wikia.nocookie.net/wweuniverse/images/f/f6/Wwelogo.png/revision/latest?cb=20101124080717",
+      "eventName": "Monday Night Raw",
+      "id": 24,
+      "links": [
+        {
+          "api": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
+          "link": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
+          "name": "Tap Sport LQ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+          "name": "Backup SD",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/12/RAW_Primary_Logo_For_Any_Background_%281%29--de3612b9543981440a24489e0e568d9b.png",
+      "teamAName": "Raw",
+      "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/12/RAW_Primary_Logo_For_Any_Background_%281%29--de3612b9543981440a24489e0e568d9b.png",
+      "teamBName": "Raw",
+      "time": "01:00:00",
+      "visible": true
+    },
+    {
+      "category": "Olympics Winter",
+      "date": "16/02/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
+      "eventName": "Olympic Winter Sports",
+      "id": 387,
+      "links": [
+        {
+          "api": "6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8",
+          "link": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-v1/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/master.mpd",
+          "name": "USA TV FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+          "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://stream.huraweb.com/embed_view.php?id=76b33213265bd4b8",
+          "name": "CH 1 - IOS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
+          "link": "https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd",
+          "name": "TSN SPORTS 1",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449",
+          "link": "https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd",
+          "name": "TSN SPORTS 4",
+          "scheme": 0,
+          "tokenApi": ""
+        }
+      ],
+      "teamAFlag": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
+      "teamAName": "Olympic",
+      "teamBFlag": "https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png",
+      "teamBName": "Olympic",
+      "time": "07:00:00",
+      "visible": false
+    },
+    {
+      "category": "Football",
+      "date": "23/02/2026",
+      "end_date": "23/02/2026",
+      "end_time": "22:05:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 388,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+      "teamAName": "Bologna",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+      "teamBName": "Udinese",
+      "time": "19:45:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "23/02/2026",
+      "end_date": "23/02/2026",
+      "end_time": "19:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "eventName": "Trendyol Süper Lig",
+      "id": 389,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+      "teamAName": "Fenerbahçe",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+      "teamBName": "Kasımpaşa",
+      "time": "17:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "23/02/2026",
+      "end_date": "23/02/2026",
+      "end_time": "21:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "eventName": "LaLiga 2",
+      "id": 390,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
+      "teamAName": "Cádiz",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+      "teamBName": "Real Sociedad B U21",
+      "time": "19:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "23/02/2026",
+      "end_date": "23/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "eventName": "LaLiga",
+      "id": 391,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+      "teamAName": "Deportivo Alavés",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+      "teamBName": "Girona FC",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "23/02/2026",
+      "end_date": "23/02/2026",
+      "end_time": "19:50:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "eventName": "Serie A",
+      "id": 392,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+      "teamAName": "Fiorentina",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2737/image",
+      "teamBName": "Pisa",
+      "time": "17:30:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "23/02/2026",
+      "end_date": "23/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+      "eventName": "League Two",
+      "id": 393,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
+      "teamAName": "Walsall",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4/image",
+      "teamBName": "Milton Keynes Dons",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "23/02/2026",
+      "end_date": "23/02/2026",
+      "end_time": "22:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "eventName": "Premier League",
+      "id": 394,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
+      "teamAName": "Everton",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+      "teamBName": "Manchester United",
+      "time": "20:00:00",
+      "visible": true
+    },
+    {
+      "category": "Football",
+      "date": "23/02/2026",
+      "end_date": "23/02/2026",
+      "end_time": "16:20:00",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "eventName": "Indian Super League",
+      "id": 395,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/370834/image",
+      "teamAName": "Mohun Bagan Super Giant",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/174590/image",
+      "teamBName": "Chennaiyin FC",
+      "time": "14:00:00",
+      "visible": true
+    },
+    {
+      "category": "Cricket",
+      "date": "23/02/2026",
+      "end_date": "",
+      "end_time": "",
+      "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "eventName": "ICC T20 World Cup",
+      "id": 396,
+      "links": [
+        {
+          "link": "https://no.link",
+          "name": "Link 1"
+        }
+      ],
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+      "teamAName": "Zimbabwe",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+      "teamBName": "West Indies",
+      "time": "13:30:00",
+      "visible": true
+    }
+  ]
+}
