@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T19:39:16.182288",
+  "last_updated": "2026-02-25T20:03:23.446989",
   "event_count": 11,
   "events": [
     {
@@ -209,8 +209,18 @@
       "id": 28,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "name": "beIN ENGLISH",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "name": "CBS NETWORK",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
@@ -254,8 +264,32 @@
       "id": 30,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "ab43088dceee340be7c933525c974191:e0822adf56dc6e47a189f7c2144e1b86",
+          "link": "https://abkv2pvaaaaaaaame22cuxst5r554.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/r5y8extnum/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd",
+          "name": "TNT BRAZIL FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://red2.wecanfix8.space/playlist/45810/load-playlist?|Referer=https://gooz.aapmains.net/",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+          "link": "https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd",
+          "name": "PSN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://26.hls-syria.live/live/bein1",
+          "name": "beIN ARABIC",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
@@ -275,8 +309,53 @@
       "id": 31,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "26a61860ec370b099baff034bbb7ae82:6dfa730bcca7baa220d9525bf49439fa",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/spbbd6tztz/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd",
+          "name": "TNT BRAZIL FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+          "link": "https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd",
+          "name": "PSN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://plf1.ionisglide.space/playlist/45809/load-playlist?|Referer=https://gooz.aapmains.net/",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://areagame.net/1111.php",
+          "name": "HD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://26.hls-syria.live/live/bein2",
+          "name": "beIN ARABIC",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-v2.faggotsports.tv/pl_120/207676-6827314-1/chunklist.m3u8|Referer=https://hmembeds.one/",
+          "name": "FHD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://daffodil.lifesharper.com/tudn.m3u8",
+          "name": "TUDN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
@@ -355,8 +434,32 @@
       "id": 33,
       "links": [
         {
-          "link": "https://no.link",
-          "name": "Link 1"
+          "api": "2613c87825b69f7cbda631310857cff9:7ac6e2642934d4502fd20e763fa6447f",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/dv6u4wyiie/out/v1/b3588cbd51284a0bae4bf28e325925b8/cenc.mpd",
+          "name": "TNT BRAZIL FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+          "link": "https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd",
+          "name": "PSN SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://red2.pulselyra.shop/playlist/45808/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "TNT SPORTS",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-v2.faggotsports.tv/pl_120/207676-6827320-1/chunklist.m3u8|Referer=https://hmembeds.one/",
+          "name": "FHD SERVER ",
+          "scheme": 0,
+          "tokenApi": ""
         }
       ],
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
