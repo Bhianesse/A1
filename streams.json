@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T17:45:50.574646",
+  "last_updated": "2026-02-25T18:42:32.762516",
   "event_count": 11,
   "events": [
     {
@@ -269,16 +269,44 @@
       "id": 32,
       "links": [
         {
-          "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
-          "link": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
-          "name": "TNT SPORTS",
+          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "name": "CBS NETWORK",
           "scheme": 0,
           "tokenApi": ""
         },
         {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "name": "CBS NETWORK",
+          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+          "link": "https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd",
+          "name": "PSN SPORTS FHD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://red2.pulselyra.shop/playlist/45805/load-playlist?|Referer=https://gooz.aapmains.net/",
+          "name": "TNT SPORTS HD",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://areagame.net/1111.php",
+          "name": "HD SERVER",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sonymtmnew.akamaized.net/hls/live/2018458/DAI10ME-V3/master.m3u8?hdnea=exp=1772065804~acl=/*~id=71365793469796673260162979143590~hmac=3f2793f41028f1cf7000bc51c89bf2bd0b37004965aaaa80067e4868f4ee297a|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; mt9255l; Build/PPR2.180905.006.A1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+          "name": "SonyLiv [ENG]",
+          "scheme": 0,
+          "tokenApi": ""
+        },
+        {
+          "api": "",
+          "link": "https://sonymtmnew.akamaized.net/hls/live/2105079/DAI08ME-V3/master.m3u8?hdnea=exp=1772065804~acl=/*~id=71365793469796673260162979143590~hmac=3f2793f41028f1cf7000bc51c89bf2bd0b37004965aaaa80067e4868f4ee297a|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; mt9255l; Build/PPR2.180905.006.A1)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+          "name": "SonyLiv [HIN]",
           "scheme": 0,
           "tokenApi": ""
         }
