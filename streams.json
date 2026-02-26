@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T10:56:16.278883",
+  "last_updated": "2026-02-26T11:36:58.226002",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -13,14 +13,14 @@
             "houseId": "99121525",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png",
             "houseIntroduction": "",
-            "houseName": "   \t KSA PR    Al-Riyadh vs Al-Ahli",
+            "houseName": "KSA PR    Al-Riyadh vs Al-Ahli",
             "liveStatus": 1,
             "matchId": "ezk96i3oj4dc1kn",
             "nickName": "BLV BÍ ĐAO",
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1549607
+            "visitHistory": 1549648
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4404650",
@@ -179,7 +179,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7h8e9qdyj"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.467Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.385Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -662,7 +662,7 @@
           "status_id": 1,
           "venue_id": "kdj2ryoh870q1zp"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.668Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.589Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1097,9 +1097,9 @@
           "environment": {
             "humidity": "92%",
             "pressure": "770mmHg",
-            "temperature": "11°C",
+            "temperature": "10°C",
             "weather": 7,
-            "wind": "0.9m/s"
+            "wind": "1.2m/s"
           },
           "home_scores": [
             0,
@@ -1143,9 +1143,9 @@
             "environment": {
               "humidity": "92%",
               "pressure": "770mmHg",
-              "temperature": "11°C",
+              "temperature": "10°C",
               "weather": 7,
-              "wind": "0.9m/s"
+              "wind": "1.2m/s"
             },
             "home_position": "6",
             "home_scores": [
@@ -1171,7 +1171,7 @@
             },
             "season_id": "v2y8m4zhl38ql07",
             "status_id": 1,
-            "updated_at": 1772094638,
+            "updated_at": 1772104839,
             "venue_id": "d23xmvkh3e6qg8n"
           },
           "referee_id": "9dn1m1ghennmoep",
@@ -1179,7 +1179,7 @@
           "status_id": 1,
           "venue_id": "d23xmvkh3e6qg8n"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.543Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.463Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1632,14 +1632,14 @@
             "houseId": "99121525",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png",
             "houseIntroduction": "",
-            "houseName": "   \t KSA PR    Al-Riyadh vs Al-Ahli",
+            "houseName": "KSA PR    Al-Riyadh vs Al-Ahli",
             "liveStatus": 1,
             "matchId": "oj7x9ixzdxec47g",
             "nickName": "BLV BÍ ĐAO",
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1549607
+            "visitHistory": 1549648
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470656",
@@ -1953,7 +1953,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4hw3lq86p"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.619Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.541Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -2043,14 +2043,14 @@
             "houseId": "90725470",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
             "houseIntroduction": "",
-            "houseName": "MYA D1\tThitsar Arman\tvs Ayeyawady Utd",
+            "houseName": "SIN D1  Geylang vs Young Lions",
             "liveStatus": 2,
             "matchId": "vmqy9ivv9pwbgk9",
             "nickName": "BLV SPRITE",
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2213253
+            "visitHistory": 2213345
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4502674",
@@ -2205,7 +2205,7 @@
           "competition_id": "56ypq3nh0xmd7oj",
           "custom_key": "d34a7726c3913b63bc83e0b5ea9c9b27",
           "environment": {
-            "humidity": "62%",
+            "humidity": "61%",
             "pressure": "773mmHg",
             "temperature": "6°C",
             "weather": 5,
@@ -2251,7 +2251,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "62%",
+              "humidity": "61%",
               "pressure": "773mmHg",
               "temperature": "6°C",
               "weather": 5,
@@ -2281,7 +2281,7 @@
             },
             "season_id": "v2y8m4zhl38ql07",
             "status_id": 1,
-            "updated_at": 1772097041,
+            "updated_at": 1772104839,
             "venue_id": "56ypq3nhoo0md7o"
           },
           "referee_id": "gy0or5jh4xzqwzv",
@@ -2289,7 +2289,7 @@
           "status_id": 1,
           "venue_id": "56ypq3nhoo0md7o"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.618Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.539Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -2491,7 +2491,7 @@
           "status_id": 1,
           "venue_id": "9vjxm8gh4oyr6od"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.384Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.299Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -2669,7 +2669,7 @@
             },
             "season_id": "x7lm7phkgg2m2wd",
             "status_id": 1,
-            "updated_at": 1772100642,
+            "updated_at": 1772104840,
             "venue_id": "p3glrw7h12yqdyj"
           },
           "referee_id": "z8yomo4h2w3q0j6",
@@ -2677,7 +2677,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7h12yqdyj"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.391Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.306Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2853,7 +2853,7 @@
           "competition_id": "d23xmvkh3k8qg8n",
           "custom_key": "7dc6bc8ace46e2addbf3cf53e4647de9",
           "environment": {
-            "humidity": "36%",
+            "humidity": "35%",
             "pressure": "755mmHg",
             "temperature": "28°C",
             "weather": 5,
@@ -2895,7 +2895,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "36%",
+              "humidity": "35%",
               "pressure": "755mmHg",
               "temperature": "28°C",
               "weather": 5,
@@ -2924,7 +2924,7 @@
             },
             "season_id": "ednm9whk8dvryox",
             "status_id": 1,
-            "updated_at": 1772094038,
+            "updated_at": 1772104238,
             "venue_id": "gy0or5jhe3vqwzv"
           },
           "referee_id": "",
@@ -2932,7 +2932,7 @@
           "status_id": 1,
           "venue_id": "gy0or5jhe3vqwzv"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.460Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.378Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2962,14 +2962,14 @@
             "houseId": "90725470",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
             "houseIntroduction": "",
-            "houseName": "MYA D1\tThitsar Arman\tvs Ayeyawady Utd",
+            "houseName": "SIN D1  Geylang vs Young Lions",
             "liveStatus": 2,
             "matchId": "ndqmliwo599brkv",
             "nickName": "BLV SPRITE",
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2213253
+            "visitHistory": 2213345
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358942",
@@ -3128,7 +3128,7 @@
             "pressure": "772mmHg",
             "temperature": "7°C",
             "weather": 5,
-            "wind": "1.5m/s"
+            "wind": "1.8m/s"
           },
           "home_scores": [
             0,
@@ -3170,7 +3170,7 @@
               "pressure": "772mmHg",
               "temperature": "7°C",
               "weather": 5,
-              "wind": "1.5m/s"
+              "wind": "1.8m/s"
             },
             "home_position": "15",
             "home_scores": [
@@ -3195,7 +3195,7 @@
             },
             "season_id": "gpxwrxlhd92ryk0",
             "status_id": 1,
-            "updated_at": 1772100640,
+            "updated_at": 1772102437,
             "venue_id": "kdj2ryoh4g9q1zp"
           },
           "referee_id": "",
@@ -3203,7 +3203,7 @@
           "status_id": 1,
           "venue_id": "kdj2ryoh4g9q1zp"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.465Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.383Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3383,7 +3383,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4h733q86p"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.667Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.587Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3568,7 +3568,7 @@
           "status_id": 1,
           "venue_id": "v2y8m4zh41pql07"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.668Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.588Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -3754,7 +3754,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7phkl9m2wd"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.623Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.544Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3934,14 +3934,14 @@
             "houseId": "90725470",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
             "houseIntroduction": "",
-            "houseName": "MYA D1\tThitsar Arman\tvs Ayeyawady Utd",
+            "houseName": "SIN D1  Geylang vs Young Lions",
             "liveStatus": 2,
             "matchId": "wv78xivnrpjhokr",
             "nickName": "BLV SPRITE",
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2213254
+            "visitHistory": 2213345
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4406427",
@@ -4025,7 +4025,7 @@
             "pressure": "757mmHg",
             "temperature": "28°C",
             "weather": 7,
-            "wind": "1.2m/s"
+            "wind": "1.5m/s"
           },
           "home_scores": [
             0,
@@ -4067,7 +4067,7 @@
               "pressure": "757mmHg",
               "temperature": "28°C",
               "weather": 7,
-              "wind": "1.2m/s"
+              "wind": "1.5m/s"
             },
             "home_position": "6",
             "home_scores": [
@@ -4092,7 +4092,7 @@
             },
             "season_id": "gpxwrxlhd56ryk0",
             "status_id": 1,
-            "updated_at": 1772102437,
+            "updated_at": 1772104838,
             "venue_id": "gpxwrxlh2ojryk0"
           },
           "referee_id": "",
@@ -4100,7 +4100,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlh2ojryk0"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.390Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.305Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4276,11 +4276,11 @@
           "competition_id": "d23xmvkh3k8qg8n",
           "custom_key": "350efbbc54db833fe85f70e626e06de6",
           "environment": {
-            "humidity": "70%",
+            "humidity": "69%",
             "pressure": "758mmHg",
             "temperature": "28°C",
             "weather": 5,
-            "wind": "3.7m/s"
+            "wind": "5.1m/s"
           },
           "home_scores": [
             0,
@@ -4318,11 +4318,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "70%",
+              "humidity": "69%",
               "pressure": "758mmHg",
               "temperature": "28°C",
               "weather": 5,
-              "wind": "3.7m/s"
+              "wind": "5.1m/s"
             },
             "home_position": "6",
             "home_scores": [
@@ -4347,7 +4347,7 @@
             },
             "season_id": "ednm9whk8dvryox",
             "status_id": 1,
-            "updated_at": 1772091040,
+            "updated_at": 1772104839,
             "venue_id": "z318q66h4o2qo9j"
           },
           "referee_id": "",
@@ -4355,7 +4355,7 @@
           "status_id": 1,
           "venue_id": "z318q66h4o2qo9j"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.297Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.217Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -4536,7 +4536,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09h18orz84"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.227Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.145Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4700,14 +4700,14 @@
             "houseId": "90725470",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
             "houseIntroduction": "",
-            "houseName": "MYA D1\tThitsar Arman\tvs Ayeyawady Utd",
+            "houseName": "SIN D1  Geylang vs Young Lions",
             "liveStatus": 2,
             "matchId": "zrkn6i45rv8swql",
             "nickName": "BLV SPRITE",
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2213253
+            "visitHistory": 2213345
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465456",
@@ -5253,7 +5253,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4hplyq86p"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.621Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.542Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5524,7 +5524,7 @@
           "status_id": 1,
           "venue_id": "kn54qllhe0nqvy9"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.470Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.388Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5725,7 +5725,7 @@
           "status_id": 1,
           "venue_id": "jednm9wh9j4ryox"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.382Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.297Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -5981,7 +5981,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09h866rz84"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.624Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.546Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6086,7 +6086,7 @@
             "pressure": "757mmHg",
             "temperature": "27°C",
             "weather": 7,
-            "wind": "4.0m/s"
+            "wind": "5.3m/s"
           },
           "home_scores": [
             0,
@@ -6128,7 +6128,7 @@
               "pressure": "757mmHg",
               "temperature": "27°C",
               "weather": 7,
-              "wind": "4.0m/s"
+              "wind": "5.3m/s"
             },
             "home_position": "6",
             "home_scores": [
@@ -6153,7 +6153,7 @@
             },
             "season_id": "4zp5rzgh80yq82w",
             "status_id": 1,
-            "updated_at": 1772092843,
+            "updated_at": 1772104838,
             "venue_id": "3glrw7hwkepqdyj"
           },
           "referee_id": "",
@@ -6161,7 +6161,7 @@
           "status_id": 1,
           "venue_id": "3glrw7hwkepqdyj"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.392Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.307Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6175,14 +6175,14 @@
             "houseId": "90725470",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
             "houseIntroduction": "",
-            "houseName": "MYA D1\tThitsar Arman\tvs Ayeyawady Utd",
+            "houseName": "SIN D1  Geylang vs Young Lions",
             "liveStatus": 2,
             "matchId": "8lk2dir4m9juz73",
             "nickName": "BLV SPRITE",
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2213254
+            "visitHistory": 2213345
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4462438",
@@ -6339,7 +6339,7 @@
             "season_id": "l5ergpho00or8k0",
             "status_id": 1,
             "tbd": 1,
-            "updated_at": 1772092843,
+            "updated_at": 1772104839,
             "venue_id": ""
           },
           "referee_id": "",
@@ -6347,7 +6347,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.300Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.220Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6519,11 +6519,11 @@
           "competition_id": "56ypq3nh0xmd7oj",
           "custom_key": "25f5287a9547680b746c5bd3bfe79f56",
           "environment": {
-            "humidity": "91%",
+            "humidity": "90%",
             "pressure": "770mmHg",
             "temperature": "7°C",
             "weather": 1,
-            "wind": "2.0m/s"
+            "wind": "2.3m/s"
           },
           "home_scores": [
             0,
@@ -6565,11 +6565,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "91%",
+              "humidity": "90%",
               "pressure": "770mmHg",
               "temperature": "7°C",
               "weather": 1,
-              "wind": "2.0m/s"
+              "wind": "2.3m/s"
             },
             "home_position": "4",
             "home_scores": [
@@ -6595,7 +6595,7 @@
             },
             "season_id": "v2y8m4zhl38ql07",
             "status_id": 1,
-            "updated_at": 1772100642,
+            "updated_at": 1772104238,
             "venue_id": "9vjxm8ghj94r6od"
           },
           "referee_id": "v2y8m4zhj8xql07",
@@ -6603,7 +6603,7 @@
           "status_id": 1,
           "venue_id": "9vjxm8ghj94r6od"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.293Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.211Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -6618,14 +6618,14 @@
             "houseId": "90725470",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
             "houseIntroduction": "",
-            "houseName": "MYA D1\tThitsar Arman\tvs Ayeyawady Utd",
+            "houseName": "SIN D1  Geylang vs Young Lions",
             "liveStatus": 2,
             "matchId": "527r3i4y2ywt47e",
             "nickName": "BLV SPRITE",
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2213254
+            "visitHistory": 2213345
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4379435",
@@ -6784,7 +6784,7 @@
           "status_id": 1,
           "venue_id": "l7oqdehn47vr510"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.228Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.146Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6964,7 +6964,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphez4r8k0"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.624Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.545Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6978,14 +6978,14 @@
             "houseId": "99121525",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png",
             "houseIntroduction": "",
-            "houseName": "   \t KSA PR    Al-Riyadh vs Al-Ahli",
+            "houseName": "KSA PR    Al-Riyadh vs Al-Ahli",
             "liveStatus": 1,
             "matchId": "ndkz6i3nmd9cxq3",
             "nickName": "BLV BÍ ĐAO",
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1549607
+            "visitHistory": 1549648
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465515",
@@ -7294,7 +7294,7 @@
             "pressure": "760mmHg",
             "temperature": "23°C",
             "weather": 1,
-            "wind": "4.3m/s"
+            "wind": "4.0m/s"
           },
           "home_scores": [
             0,
@@ -7336,7 +7336,7 @@
               "pressure": "760mmHg",
               "temperature": "23°C",
               "weather": 1,
-              "wind": "4.3m/s"
+              "wind": "4.0m/s"
             },
             "home_position": "11",
             "home_scores": [
@@ -7361,7 +7361,7 @@
             },
             "season_id": "vjxm8gh4vvwr6od",
             "status_id": 1,
-            "updated_at": 1772098238,
+            "updated_at": 1772105414,
             "venue_id": "vl7oqdeh6eor510"
           },
           "referee_id": "j1l4rjnhzg4m7vx",
@@ -7369,7 +7369,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdeh6eor510"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.385Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.300Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7549,7 +7549,7 @@
           "status_id": 1,
           "venue_id": "l7oqdehn4jor510"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.219Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.138Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7650,11 +7650,11 @@
           "competition_id": "4zp5rzgh9zq82w1",
           "custom_key": "29a28b9871f1fd9bb52ad9c2d34139de",
           "environment": {
-            "humidity": "91%",
+            "humidity": "93%",
             "pressure": "756mmHg",
-            "temperature": "25°C",
-            "weather": 6,
-            "wind": "5.8m/s"
+            "temperature": "24°C",
+            "weather": 10,
+            "wind": "6.8m/s"
           },
           "home_scores": [
             0,
@@ -7692,11 +7692,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "91%",
+              "humidity": "93%",
               "pressure": "756mmHg",
-              "temperature": "25°C",
-              "weather": 6,
-              "wind": "5.8m/s"
+              "temperature": "24°C",
+              "weather": 10,
+              "wind": "6.8m/s"
             },
             "home_position": "20",
             "home_scores": [
@@ -7721,7 +7721,7 @@
             },
             "season_id": "3glrw7hwkk4qdyj",
             "status_id": 1,
-            "updated_at": 1772100641,
+            "updated_at": 1772102439,
             "venue_id": "z8yomo4hkk0q0j6"
           },
           "referee_id": "vl7oqdeh1zzr510",
@@ -7729,7 +7729,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4hkk0q0j6"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.294Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.212Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -8135,7 +8135,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09hv44rz84"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.223Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.142Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -8390,7 +8390,7 @@
           "status_id": 1,
           "venue_id": "9vjxm8gh7ygr6od"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.297Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.216Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -8632,7 +8632,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlh2ojryk0"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.621Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.542Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -8799,193 +8799,10 @@
           "status_id": 1,
           "venue_id": "vl7oqdehk39r510"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.545Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.464Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
-      },
-      "thitsar-arman-fc-vs-ayeyawady-luc-1630-ngay-26-02-2026-m2q15izrdw8he76": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 48,
-            "houseId": "90725470",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
-            "houseIntroduction": "",
-            "houseName": "MYA D1\tThitsar Arman\tvs Ayeyawady Utd",
-            "liveStatus": 2,
-            "matchId": "m2q15izrdw8he76",
-            "nickName": "BLV SPRITE",
-            "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2213254
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4474622",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4474622",
-        "auto_unpin_minutes": 115,
-        "awayScore": [
-          0,
-          0,
-          0,
-          0,
-          7,
-          0,
-          0
-        ],
-        "awayTeamId": "jek33i60mxcdko2",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/0fa22db02182e418b4982b5be594bdf9.png!w80",
-        "awayTeamName": "Ayeyawady",
-        "away_team": {
-          "id": "jek33i60mxcdko2",
-          "logo": "https://img.colatv88xd.cc/football/team/0fa22db02182e418b4982b5be594bdf9.png!w80",
-          "name": "Ayeyawady"
-        },
-        "competition": {
-          "id": "n527r3ivvru17ev",
-          "logo": "https://img.colatv88xd.cc/football/competition/0e7b29667e53debdcc13bbcae0c0a35e.png!w80",
-          "name": "Giải bóng đá Chuyên nghiệp Myanmar"
-        },
-        "competitionId": "n527r3ivvru17ev",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/0e7b29667e53debdcc13bbcae0c0a35e.png!w80",
-        "competitionName": "Giải bóng đá Chuyên nghiệp Myanmar",
-        "custom_key": "13111dff185fcdab276eef5bf320b2ec",
-        "homeScore": [
-          0,
-          0,
-          0,
-          0,
-          3,
-          0,
-          0
-        ],
-        "homeTeamId": "xvkjoilnldhx793",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/620580ad384044d097de6cc7c3a3cc45.png!w80",
-        "homeTeamName": "Thitsar Arman FC",
-        "home_team": {
-          "id": "xvkjoilnldhx793",
-          "logo": "https://img.colatv88xd.cc/football/team/620580ad384044d097de6cc7c3a3cc45.png!w80",
-          "name": "Thitsar Arman FC"
-        },
-        "house_id": "90725470",
-        "matchId": "m2q15izrdw8he76",
-        "matchStatus": 2,
-        "matchTime": 1772098200,
-        "match_id": "m2q15izrdw8he76",
-        "match_status": "live",
-        "match_time": 1772098200,
-        "node_api_data": {
-          "_id": "699e405bdc9f7ab2a176f89c",
-          "away_scores": [
-            0,
-            0,
-            0,
-            0,
-            7,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "1l4rjnh6onym7vx",
-            "logo": "https://img.thesports.com/football/team/0fa22db02182e418b4982b5be594bdf9.png",
-            "name": "Ayeyawady united"
-          },
-          "away_team_id": "1l4rjnh6onym7vx",
-          "competition": {
-            "id": "9vjxm8ghjj0r6od",
-            "logo": "https://img.thesports.com/football/competition/0e7b29667e53debdcc13bbcae0c0a35e.png",
-            "name": "Myanmar Professional League"
-          },
-          "competition_id": "9vjxm8ghjj0r6od",
-          "custom_key": "13111dff185fcdab276eef5bf320b2ec",
-          "environment": {
-            "humidity": "34%",
-            "pressure": "755mmHg",
-            "temperature": "33°C",
-            "weather": 1,
-            "wind": "3.2m/s"
-          },
-          "home_scores": [
-            0,
-            0,
-            0,
-            0,
-            3,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "4wyrn4hvlv9q86p",
-            "logo": "https://img.thesports.com/football/team/620580ad384044d097de6cc7c3a3cc45.png",
-            "name": "Thitsar Arman FC"
-          },
-          "home_team_id": "4wyrn4hvlv9q86p",
-          "match_date_vn": "20260226",
-          "match_id": "l7oqdehg893jr51",
-          "match_time": 1772098200,
-          "raw": {
-            "away_position": "8",
-            "away_scores": [
-              0,
-              0,
-              0,
-              0,
-              7,
-              0,
-              0
-            ],
-            "away_team_id": "1l4rjnh6onym7vx",
-            "competition_id": "9vjxm8ghjj0r6od",
-            "coverage": {
-              "lineup": 0,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "34%",
-              "pressure": "755mmHg",
-              "temperature": "33°C",
-              "weather": 1,
-              "wind": "3.2m/s"
-            },
-            "home_position": "10",
-            "home_scores": [
-              0,
-              0,
-              0,
-              0,
-              3,
-              0,
-              0
-            ],
-            "home_team_id": "4wyrn4hvlv9q86p",
-            "id": "l7oqdehg893jr51",
-            "match_time": 1772098200,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "",
-            "round": {
-              "group_num": 0,
-              "round_num": 19,
-              "stage_id": "pxwrxlh0o59ryk0"
-            },
-            "season_id": "kdj2ryoh810q1zp",
-            "status_id": 4,
-            "updated_at": 1772103157,
-            "venue_id": ""
-          },
-          "referee_id": "",
-          "season_id": "kdj2ryoh810q1zp",
-          "status_id": 4,
-          "venue_id": ""
-        },
-        "node_api_updated_at": "2026-02-26T10:55:52.226Z",
-        "pin_hot_anchor": "90725470",
-        "sportId": 1,
-        "sport_id": 1,
-        "videoUrl": "https://live.trendgallary.com/live/67589930_ca7d469a14b014986c7abaf74be0412c_autoChange.m3u8?auth_key=1772117757-0-0-65c52ab260c725dc1c986bd5c68b14b2",
-        "video_url": "https://live.trendgallary.com/live/67589930_ca7d469a14b014986c7abaf74be0412c_autoChange.m3u8?auth_key=1772117757-0-0-65c52ab260c725dc1c986bd5c68b14b2"
       },
       "tsg-1899-hoffenheim-vs-st-pauli-luc-2130-ngay-28-02-2026-wv78xivdx4ltokr": {
         "anchorAppointmentVoList": [
@@ -9467,7 +9284,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7hwvjqdyj"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.386Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.301Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -9648,7 +9465,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphnzkr8k0"
         },
-        "node_api_updated_at": "2026-02-26T10:55:52.543Z",
+        "node_api_updated_at": "2026-02-26T11:36:17.463Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
