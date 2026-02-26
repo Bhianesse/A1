@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T19:14:13.324855",
+  "last_updated": "2026-02-26T19:55:45.251964",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -20,7 +20,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1550020
+            "visitHistory": 1550105
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4404650",
@@ -30,7 +30,7 @@
           0,
           0,
           0,
-          0,
+          2,
           0,
           0
         ],
@@ -55,7 +55,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0,
           0
@@ -100,9 +100,9 @@
           "competition_id": "j1l4rjnh66nm7vx",
           "custom_key": "9770c8227a551b70db27a991b8fe77ce",
           "environment": {
-            "humidity": "21%",
-            "pressure": "764mmHg",
-            "temperature": "20°C",
+            "humidity": "23%",
+            "pressure": "763mmHg",
+            "temperature": "17°C",
             "weather": 5,
             "wind": "1.8m/s"
           },
@@ -142,9 +142,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "21%",
-              "pressure": "764mmHg",
-              "temperature": "20°C",
+              "humidity": "23%",
+              "pressure": "763mmHg",
+              "temperature": "17°C",
               "weather": 5,
               "wind": "1.8m/s"
             },
@@ -171,7 +171,7 @@
             },
             "season_id": "e4wyrn4hgxyq86p",
             "status_id": 2,
-            "updated_at": 1772132443,
+            "updated_at": 1772133642,
             "venue_id": "p3glrw7h8e9qdyj"
           },
           "referee_id": "8y39mp1hp0zmojx",
@@ -179,11 +179,11 @@
           "status_id": 2,
           "venue_id": "p3glrw7h8e9qdyj"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.568Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.558Z",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https://live.trendgallary.com/live/64055717_dc4f1d335145d82d01c5f386b78293bb_autoChange.m3u8?auth_key=1772147618-0-0-637dfe155d5ac91133fff41eba7b4592",
-        "video_url": "https://live.trendgallary.com/live/64055717_dc4f1d335145d82d01c5f386b78293bb_autoChange.m3u8?auth_key=1772147618-0-0-637dfe155d5ac91133fff41eba7b4592"
+        "videoUrl": "https://live.trendgallary.com/live/64055717_dc4f1d335145d82d01c5f386b78293bb_autoChange.m3u8?auth_key=1772150104-0-0-e45e853ff843aeca08b512c9bac97316",
+        "video_url": "https://live.trendgallary.com/live/64055717_dc4f1d335145d82d01c5f386b78293bb_autoChange.m3u8?auth_key=1772150104-0-0-e45e853ff843aeca08b512c9bac97316"
       },
       "al-shabab-vs-al-hilal-luc-0200-ngay-28-02-2026-69759ig8roecgk2": {
         "anchorAppointmentVoList": [
@@ -270,13 +270,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
             "houseName": "UEFA EL Celta Vigo vs PAOK",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "edq09ilyggmieqx",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
-            "visitHistory": 3632615
+            "visitHistory": 3632623
           },
           {
             "anchorTitle": "",
@@ -361,13 +361,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzI3M2E2ZmE2ZTktODc2NQ/ZThlNTczYTc4M2EtZjJkNw.png",
             "houseIntroduction": "kết bạn zalo/telegram để vào nhóm soi kèo, khuyến mãi tiền thưởng miễn phí tặng mỗi ngày!",
             "houseName": "UEFA ECL  Crystal Palace  vs  Zrinjski Mostar  ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "vmqy9iv0n1xugk9",
             "nickName": "BLV DR THANH",
             "playStreamAddress": "https://live5.msrktz.app/live/79665343.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/79665343.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/N2VhNzAxMzY0ZDUtMTE1NQ/NDY0ZWExN2NiMzQtZTRhMw.jpg",
-            "visitHistory": 1102269
+            "visitHistory": 1102293
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347567",
@@ -510,14 +510,14 @@
             "houseId": "90865415",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg",
             "houseIntroduction": "",
-            "houseName": "   \t UEFA EL  VfB Stuttgart  vs Celtic",
-            "liveStatus": 2,
+            "houseName": "VIE D2   Truong Tuoi Dong Nai  vs  Dong Thap  ",
+            "liveStatus": 1,
             "matchId": "ndqmliwj96esrkv",
             "nickName": "BLV 247",
             "playStreamAddress": "https://live5.msrktz.app/live/90865415.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90865415.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",
-            "visitHistory": 499014
+            "visitHistory": 499073
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4432220",
@@ -663,7 +663,7 @@
           "status_id": 1,
           "venue_id": "kdj2ryoh870q1zp"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.820Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.780Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -753,13 +753,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
             "houseIntroduction": "",
             "houseName": "   \t UEFA EL  Nottingham Forest  vs Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "wv78xivd650uokr",
             "nickName": "BLV ÔLONG",
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2227598
+            "visitHistory": 2227626
           },
           {
             "anchorTitle": "",
@@ -769,13 +769,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
             "houseIntroduction": "",
             "houseName": "UEFA EL\tNottingham Forest\t  vs  Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "wv78xivd650uokr",
             "nickName": "BLV COCA",
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4098585
+            "visitHistory": 4098669
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343254",
@@ -919,13 +919,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
             "houseIntroduction": "",
             "houseName": "UEFA EL\tNottingham Forest\t  vs  Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "vmqy9iv08zoigk9",
             "nickName": "BLV COCA",
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4098585
+            "visitHistory": 4098669
           },
           {
             "anchorTitle": "",
@@ -1010,13 +1010,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
             "houseName": "UEFA EL Celta Vigo vs PAOK",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "oj7x9ixnm3nc47g",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
-            "visitHistory": 3632615
+            "visitHistory": 3632623
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4487148",
@@ -1096,11 +1096,11 @@
           "competition_id": "56ypq3nh0xmd7oj",
           "custom_key": "afaffedfd346e3f73a768eaaf3a57ad9",
           "environment": {
-            "humidity": "93%",
+            "humidity": "94%",
             "pressure": "770mmHg",
             "temperature": "11°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "home_scores": [
             0,
@@ -1142,11 +1142,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "93%",
+              "humidity": "94%",
               "pressure": "770mmHg",
               "temperature": "11°C",
               "weather": 7,
-              "wind": "1.5m/s"
+              "wind": "1.2m/s"
             },
             "home_position": "6",
             "home_scores": [
@@ -1172,7 +1172,7 @@
             },
             "season_id": "v2y8m4zhl38ql07",
             "status_id": 1,
-            "updated_at": 1772131843,
+            "updated_at": 1772133643,
             "venue_id": "d23xmvkh3e6qg8n"
           },
           "referee_id": "9dn1m1ghennmoep",
@@ -1180,7 +1180,7 @@
           "status_id": 1,
           "venue_id": "d23xmvkh3e6qg8n"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.650Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.644Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1195,13 +1195,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
             "houseIntroduction": "",
             "houseName": "UEFA EL\tNottingham Forest\t  vs  Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "8lk2dirn881hz73",
             "nickName": "BLV COCA",
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4098585
+            "visitHistory": 4098669
           },
           {
             "anchorTitle": "",
@@ -1217,7 +1217,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6099430
+            "visitHistory": 6099517
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4426684",
@@ -1286,13 +1286,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzI3M2E2ZmE2ZTktODc2NQ/ZThlNTczYTc4M2EtZjJkNw.png",
             "houseIntroduction": "kết bạn zalo/telegram để vào nhóm soi kèo, khuyến mãi tiền thưởng miễn phí tặng mỗi ngày!",
             "houseName": "UEFA ECL  Crystal Palace  vs  Zrinjski Mostar  ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "jek33i8jo1of9ko",
             "nickName": "BLV DR THANH",
             "playStreamAddress": "https://live5.msrktz.app/live/79665343.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/79665343.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/N2VhNzAxMzY0ZDUtMTE1NQ/NDY0ZWExN2NiMzQtZTRhMw.jpg",
-            "visitHistory": 1102269
+            "visitHistory": 1102292
           },
           {
             "anchorTitle": "",
@@ -1308,7 +1308,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6099430
+            "visitHistory": 6099517
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343260",
@@ -1377,13 +1377,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzI3M2E2ZmE2ZTktODc2NQ/ZThlNTczYTc4M2EtZjJkNw.png",
             "houseIntroduction": "kết bạn zalo/telegram để vào nhóm soi kèo, khuyến mãi tiền thưởng miễn phí tặng mỗi ngày!",
             "houseName": "UEFA ECL  Crystal Palace  vs  Zrinjski Mostar  ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "34kgmiodxxyaeko",
             "nickName": "BLV DR THANH",
             "playStreamAddress": "https://live5.msrktz.app/live/79665343.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/79665343.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/N2VhNzAxMzY0ZDUtMTE1NQ/NDY0ZWExN2NiMzQtZTRhMw.jpg",
-            "visitHistory": 1102269
+            "visitHistory": 1102292
           },
           {
             "anchorTitle": "",
@@ -1474,7 +1474,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2129486
+            "visitHistory": 2129569
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4355771",
@@ -1543,13 +1543,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
             "houseIntroduction": "",
             "houseName": "   \t UEFA EL  Nottingham Forest  vs Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "63kv9igv888sx7e",
             "nickName": "BLV ÔLONG",
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2227598
+            "visitHistory": 2227626
           },
           {
             "anchorTitle": "",
@@ -1559,13 +1559,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
             "houseName": "UEFA EL Celta Vigo vs PAOK",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "63kv9igv888sx7e",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
-            "visitHistory": 3632615
+            "visitHistory": 3632623
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4426685",
@@ -1640,7 +1640,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1550020
+            "visitHistory": 1550105
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470656",
@@ -1790,7 +1790,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2227466
+            "visitHistory": 2227476
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4502330",
@@ -1870,11 +1870,11 @@
           "competition_id": "v2y8m4zhe6ql074",
           "custom_key": "d9f55ecc6242ddc56428ca989c9834e1",
           "environment": {
-            "humidity": "37%",
+            "humidity": "41%",
             "pressure": "755mmHg",
             "temperature": "31°C",
             "weather": 5,
-            "wind": "4.3m/s"
+            "wind": "4.5m/s"
           },
           "home_scores": [
             0,
@@ -1916,11 +1916,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "37%",
+              "humidity": "41%",
               "pressure": "755mmHg",
               "temperature": "31°C",
               "weather": 5,
-              "wind": "4.3m/s"
+              "wind": "4.5m/s"
             },
             "home_position": "3",
             "home_scores": [
@@ -1946,7 +1946,7 @@
             },
             "season_id": "x7lm7phkgg2m2wd",
             "status_id": 1,
-            "updated_at": 1772112640,
+            "updated_at": 1772133642,
             "venue_id": "e4wyrn4hw3lq86p"
           },
           "referee_id": "9dn1m1gh3w1moep",
@@ -1954,7 +1954,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4hw3lq86p"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.767Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.727Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -2126,19 +2126,18 @@
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6099431
+            "visitHistory": 6099517
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4487152",
         "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4487152",
-        "auto_unpin_minutes": 110,
         "awayScore": [
           1,
           1,
           0,
           1,
-          5,
-          0,
+          6,
+          2,
           0
         ],
         "awayTeamId": "n527r3i2l8s87ev",
@@ -2162,8 +2161,8 @@
           0,
           0,
           0,
-          1,
-          4,
+          2,
+          7,
           0,
           0
         ],
@@ -2175,7 +2174,7 @@
           "logo": "https://img.colatv88xd.cc/football/team/61a1f9406cde098a265280a3683da9b7.png!w80",
           "name": "Crvena Zvezda"
         },
-        "house_id": "43612277",
+        "house_id": null,
         "matchId": "9gklzi145owsm7x",
         "matchStatus": 2,
         "matchTime": 1772127900,
@@ -2189,7 +2188,7 @@
             1,
             0,
             1,
-            5,
+            6,
             0,
             0
           ],
@@ -2207,9 +2206,9 @@
           "competition_id": "56ypq3nh0xmd7oj",
           "custom_key": "d34a7726c3913b63bc83e0b5ea9c9b27",
           "environment": {
-            "humidity": "60%",
+            "humidity": "68%",
             "pressure": "773mmHg",
-            "temperature": "6°C",
+            "temperature": "4°C",
             "weather": 5,
             "wind": "1.1m/s"
           },
@@ -2217,8 +2216,8 @@
             0,
             0,
             0,
-            1,
-            3,
+            2,
+            5,
             0,
             0
           ],
@@ -2242,7 +2241,7 @@
               1,
               0,
               1,
-              5,
+              6,
               0,
               0
             ],
@@ -2253,9 +2252,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "60%",
+              "humidity": "68%",
               "pressure": "773mmHg",
-              "temperature": "6°C",
+              "temperature": "4°C",
               "weather": 5,
               "wind": "1.1m/s"
             },
@@ -2264,8 +2263,8 @@
               0,
               0,
               0,
-              1,
-              3,
+              2,
+              5,
               0,
               0
             ],
@@ -2283,7 +2282,7 @@
             },
             "season_id": "v2y8m4zhl38ql07",
             "status_id": 4,
-            "updated_at": 1772132347,
+            "updated_at": 1772134268,
             "venue_id": "56ypq3nhoo0md7o"
           },
           "referee_id": "gy0or5jh4xzqwzv",
@@ -2291,12 +2290,11 @@
           "status_id": 4,
           "venue_id": "56ypq3nhoo0md7o"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.765Z",
-        "pin_hot_anchor": "43612277",
+        "node_api_updated_at": "2026-02-26T19:55:17.725Z",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https://live.trendgallary.com/live/68417308_7b3856a0135e97a0424f3a5b9fd7b9d1_autoChange.m3u8?auth_key=1772147622-0-0-4c3cdb7d158c8da155bc3abd73d65f27",
-        "video_url": "https://live.trendgallary.com/live/68417308_7b3856a0135e97a0424f3a5b9fd7b9d1_autoChange.m3u8?auth_key=1772147622-0-0-4c3cdb7d158c8da155bc3abd73d65f27"
+        "videoUrl": "https://live.trendgallary.com/live/9gklzi145owsm7x_fb1845507687c3cabbb778903369e647_autoChange.m3u8?auth_key=1772150108-0-0-c8ff18b25287592d283e0268711bb586",
+        "video_url": "https://live.trendgallary.com/live/9gklzi145owsm7x_fb1845507687c3cabbb778903369e647_autoChange.m3u8?auth_key=1772150108-0-0-c8ff18b25287592d283e0268711bb586"
       },
       "crystal-palace-vs-zrinjski-luc-0300-ngay-27-02-2026-jr7owip3en5agq0": {
         "anchorAppointmentVoList": [
@@ -2308,13 +2306,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzI3M2E2ZmE2ZTktODc2NQ/ZThlNTczYTc4M2EtZjJkNw.png",
             "houseIntroduction": "kết bạn zalo/telegram để vào nhóm soi kèo, khuyến mãi tiền thưởng miễn phí tặng mỗi ngày!",
             "houseName": "UEFA ECL  Crystal Palace  vs  Zrinjski Mostar  ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "jr7owip3en5agq0",
             "nickName": "BLV DR THANH",
             "playStreamAddress": "https://live5.msrktz.app/live/79665343.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/79665343.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/N2VhNzAxMzY0ZDUtMTE1NQ/NDY0ZWExN2NiMzQtZTRhMw.jpg",
-            "visitHistory": 1102269
+            "visitHistory": 1102293
           },
           {
             "anchorTitle": "",
@@ -2330,11 +2328,12 @@
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6099431
+            "visitHistory": 6099517
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4478590",
         "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4478590",
+        "auto_unpin_minutes": 110,
         "awayScore": [
           0,
           0,
@@ -2378,7 +2377,7 @@
           "logo": "https://img.colatv88xd.cc/football/team/42396d18444156e640c37476c2b41b93.png!w80",
           "name": "Crystal Palace"
         },
-        "house_id": null,
+        "house_id": "79665343",
         "matchId": "jr7owip3en5agq0",
         "matchStatus": 1,
         "matchTime": 1772136000,
@@ -2410,11 +2409,11 @@
           "competition_id": "p4jwq2gh754m0ve",
           "custom_key": "5d70d4da664c95021d4962c7e2350369",
           "environment": {
-            "humidity": "81%",
+            "humidity": "80%",
             "pressure": "761mmHg",
             "temperature": "12°C",
-            "weather": 7,
-            "wind": "5.3m/s"
+            "weather": 10,
+            "wind": "5.8m/s"
           },
           "home_scores": [
             0,
@@ -2456,11 +2455,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "81%",
+              "humidity": "80%",
               "pressure": "761mmHg",
               "temperature": "12°C",
-              "weather": 7,
-              "wind": "5.3m/s"
+              "weather": 10,
+              "wind": "5.8m/s"
             },
             "home_position": "13",
             "home_scores": [
@@ -2486,7 +2485,7 @@
             },
             "season_id": "kdj2ryoh8kjq1zp",
             "status_id": 1,
-            "updated_at": 1772131842,
+            "updated_at": 1772133643,
             "venue_id": "9vjxm8gh4oyr6od"
           },
           "referee_id": "p3glrw7hjw4qdyj",
@@ -2494,7 +2493,8 @@
           "status_id": 1,
           "venue_id": "9vjxm8gh4oyr6od"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.477Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.469Z",
+        "pin_hot_anchor": "79665343",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -2599,7 +2599,7 @@
             "humidity": "79%",
             "pressure": "759mmHg",
             "temperature": "23°C",
-            "weather": 6,
+            "weather": 7,
             "wind": "2.6m/s"
           },
           "home_scores": [
@@ -2645,7 +2645,7 @@
               "humidity": "79%",
               "pressure": "759mmHg",
               "temperature": "23°C",
-              "weather": 6,
+              "weather": 7,
               "wind": "2.6m/s"
             },
             "home_position": "6",
@@ -2672,7 +2672,7 @@
             },
             "season_id": "x7lm7phkgg2m2wd",
             "status_id": 1,
-            "updated_at": 1772131842,
+            "updated_at": 1772133643,
             "venue_id": "p3glrw7h12yqdyj"
           },
           "referee_id": "z8yomo4h2w3q0j6",
@@ -2680,7 +2680,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7h12yqdyj"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.484Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.475Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2694,14 +2694,14 @@
             "houseId": "97885009",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png",
             "houseIntroduction": "",
-            "houseName": "UEFA EL\tFerencvaros\tvs Ludogorets Razgrad",
-            "liveStatus": 2,
+            "houseName": "Aus VPL   Heidelberg Utd  vs  Dandenong City  ",
+            "liveStatus": 1,
             "matchId": "xvkjoi8omm5s879",
             "nickName": "BLV WARRIOR",
             "playStreamAddress": "https://live5.msrktz.app/live/97885009.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97885009.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MzkwNDEyYWVjOTEtZGM4Nw/MzllNDQ3M2FhMDUtMDc5Mg.jpg",
-            "visitHistory": 844606
+            "visitHistory": 844663
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4355768",
@@ -2935,7 +2935,7 @@
           "status_id": 1,
           "venue_id": "gy0or5jhe3vqwzv"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.560Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.550Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2950,13 +2950,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
             "houseName": "UEFA EL Celta Vigo vs PAOK",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ndqmliwo599brkv",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
-            "visitHistory": 3632615
+            "visitHistory": 3632623
           },
           {
             "anchorTitle": "",
@@ -3127,7 +3127,7 @@
           "competition_id": "kdj2ryohe2q1zpg",
           "custom_key": "8fb4202f17450bb288fd1ad997f9304f",
           "environment": {
-            "humidity": "52%",
+            "humidity": "51%",
             "pressure": "772mmHg",
             "temperature": "7°C",
             "weather": 5,
@@ -3169,7 +3169,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "52%",
+              "humidity": "51%",
               "pressure": "772mmHg",
               "temperature": "7°C",
               "weather": 5,
@@ -3198,7 +3198,7 @@
             },
             "season_id": "gpxwrxlhd92ryk0",
             "status_id": 1,
-            "updated_at": 1772131842,
+            "updated_at": 1772133640,
             "venue_id": "kdj2ryoh4g9q1zp"
           },
           "referee_id": "",
@@ -3206,7 +3206,7 @@
           "status_id": 1,
           "venue_id": "kdj2ryoh4g9q1zp"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.566Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.556Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3307,7 +3307,7 @@
           "competition_id": "gx7lm7ph7jm2wdk",
           "custom_key": "f30f377c452a680ccaef1cdd0e1bfabd",
           "environment": {
-            "humidity": "60%",
+            "humidity": "62%",
             "pressure": "771mmHg",
             "temperature": "6°C",
             "weather": 1,
@@ -3349,7 +3349,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "60%",
+              "humidity": "62%",
               "pressure": "771mmHg",
               "temperature": "6°C",
               "weather": 1,
@@ -3378,7 +3378,7 @@
             },
             "season_id": "v2y8m4zhlzxql07",
             "status_id": 1,
-            "updated_at": 1772122242,
+            "updated_at": 1772133638,
             "venue_id": "e4wyrn4h733q86p"
           },
           "referee_id": "j1l4rjnhk0ym7vx",
@@ -3386,196 +3386,10 @@
           "status_id": 1,
           "venue_id": "e4wyrn4h733q86p"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.819Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.779Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
-      },
-      "ferencvarosi-tc-vs-ludogorets-razgrad-luc-0045-ngay-27-02-2026-xvkjoi802xvu879": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 162,
-            "houseId": "97885009",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png",
-            "houseIntroduction": "",
-            "houseName": "UEFA EL\tFerencvaros\tvs Ludogorets Razgrad",
-            "liveStatus": 2,
-            "matchId": "xvkjoi802xvu879",
-            "nickName": "BLV WARRIOR",
-            "playStreamAddress": "https://live5.msrktz.app/live/97885009.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/97885009.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MzkwNDEyYWVjOTEtZGM4Nw/MzllNDQ3M2FhMDUtMDc5Mg.jpg",
-            "visitHistory": 844607
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4487145",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4487145",
-        "awayScore": [
-          0,
-          0,
-          0,
-          1,
-          5,
-          0,
-          0
-        ],
-        "awayTeamId": "9gklzi0v1nc17xd",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/3cd0dc57966a8b1f8536dd0016179664.png!w80",
-        "awayTeamName": "Ludogorets Razgrad",
-        "away_team": {
-          "id": "9gklzi0v1nc17xd",
-          "logo": "https://img.colatv88xd.cc/football/team/3cd0dc57966a8b1f8536dd0016179664.png!w80",
-          "name": "Ludogorets Razgrad"
-        },
-        "competition": {
-          "id": "2jr7owi6es1q0em",
-          "logo": "https://img.colatv88xd.cc/football/competition/1792ba5a12171fedc6d543bdf173f37c.png!w80",
-          "name": "Europa League"
-        },
-        "competitionId": "2jr7owi6es1q0em",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/1792ba5a12171fedc6d543bdf173f37c.png!w80",
-        "competitionName": "Europa League",
-        "custom_key": "f99c0cb373bcdb44104205a998b85c5a",
-        "homeScore": [
-          2,
-          2,
-          0,
-          2,
-          1,
-          0,
-          0
-        ],
-        "homeTeamId": "9oj7x9ijpgfr7g3",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/202e45f30a94193466ba2ae8a96e7685.png!w80",
-        "homeTeamName": "Ferencvarosi TC",
-        "home_team": {
-          "id": "9oj7x9ijpgfr7g3",
-          "logo": "https://img.colatv88xd.cc/football/team/202e45f30a94193466ba2ae8a96e7685.png!w80",
-          "name": "Ferencvarosi TC"
-        },
-        "house_id": null,
-        "matchId": "xvkjoi802xvu879",
-        "matchStatus": 2,
-        "matchTime": 1772127900,
-        "match_id": "xvkjoi802xvu879",
-        "match_status": "live",
-        "match_time": 1772127900,
-        "node_api_data": {
-          "_id": "699f90f23f5a939938788d45",
-          "away_scores": [
-            0,
-            0,
-            0,
-            1,
-            4,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "6ypq3nh01vlmd7o",
-            "logo": "https://img.thesports.com/football/team/3cd0dc57966a8b1f8536dd0016179664.png",
-            "name": "Ludogorets Razgrad"
-          },
-          "away_team_id": "6ypq3nh01vlmd7o",
-          "competition": {
-            "id": "56ypq3nh0xmd7oj",
-            "logo": "https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",
-            "name": "UEFA Europa League"
-          },
-          "competition_id": "56ypq3nh0xmd7oj",
-          "custom_key": "f99c0cb373bcdb44104205a998b85c5a",
-          "environment": {
-            "humidity": "64%",
-            "pressure": "773mmHg",
-            "temperature": "5°C",
-            "weather": 1,
-            "wind": "1.1m/s"
-          },
-          "home_scores": [
-            2,
-            2,
-            0,
-            2,
-            1,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "vl7oqdehzwpr510",
-            "logo": "https://img.thesports.com/football/team/202e45f30a94193466ba2ae8a96e7685.png",
-            "name": "Ferencvarosi TC"
-          },
-          "home_team_id": "vl7oqdehzwpr510",
-          "match_date_vn": "20260227",
-          "match_id": "jw2r09hk25j9rz8",
-          "match_time": 1772127900,
-          "raw": {
-            "agg_score": [
-              3,
-              2
-            ],
-            "away_position": "2",
-            "away_scores": [
-              0,
-              0,
-              0,
-              1,
-              4,
-              0,
-              0
-            ],
-            "away_team_id": "6ypq3nh01vlmd7o",
-            "competition_id": "56ypq3nh0xmd7oj",
-            "coverage": {
-              "lineup": 1,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "64%",
-              "pressure": "773mmHg",
-              "temperature": "5°C",
-              "weather": 1,
-              "wind": "1.1m/s"
-            },
-            "home_position": "2",
-            "home_scores": [
-              2,
-              2,
-              0,
-              2,
-              1,
-              0,
-              0
-            ],
-            "home_team_id": "vl7oqdehzwpr510",
-            "id": "jw2r09hk25j9rz8",
-            "match_time": 1772127900,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "8y39mp1h5z4mojx",
-            "related_id": "4jwq2ghnegxom0v",
-            "round": {
-              "group_num": 0,
-              "round_num": 0,
-              "stage_id": "x7lm7ph219xm2wd"
-            },
-            "season_id": "v2y8m4zhl38ql07",
-            "status_id": 4,
-            "updated_at": 1772132442,
-            "venue_id": "v2y8m4zh41pql07"
-          },
-          "referee_id": "8y39mp1h5z4mojx",
-          "season_id": "v2y8m4zhl38ql07",
-          "status_id": 4,
-          "venue_id": "v2y8m4zh41pql07"
-        },
-        "node_api_updated_at": "2026-02-26T19:13:17.820Z",
-        "sportId": 1,
-        "sport_id": 1,
-        "videoUrl": "https://live3.trendgallary.com/live/68417320_a9d19cfe9efcb4505c204927223a6bfb_autoChange.m3u8?auth_key=1772147621-0-0-c91752115da76a6e506c1aa8ca1cd184",
-        "video_url": "https://live3.trendgallary.com/live/68417320_a9d19cfe9efcb4505c204927223a6bfb_autoChange.m3u8?auth_key=1772147621-0-0-c91752115da76a6e506c1aa8ca1cd184"
       },
       "flamengo-vs-lanus-luc-0730-ngay-27-02-2026-ezk96i3pd4gh1kn": {
         "anchorAppointmentVoList": [
@@ -3757,7 +3571,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7phkl9m2wd"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.771Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.731Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3921,14 +3735,14 @@
             "houseId": "90865415",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg",
             "houseIntroduction": "",
-            "houseName": "   \t UEFA EL  VfB Stuttgart  vs Celtic",
-            "liveStatus": 2,
+            "houseName": "VIE D2   Truong Tuoi Dong Nai  vs  Dong Thap  ",
+            "liveStatus": 1,
             "matchId": "63kv9igope9sx7e",
             "nickName": "BLV 247",
             "playStreamAddress": "https://live5.msrktz.app/live/90865415.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90865415.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",
-            "visitHistory": 499014
+            "visitHistory": 499073
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4477084",
@@ -3996,14 +3810,14 @@
             "houseId": "97885009",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png",
             "houseIntroduction": "",
-            "houseName": "UEFA EL\tFerencvaros\tvs Ludogorets Razgrad",
-            "liveStatus": 2,
+            "houseName": "Aus VPL   Heidelberg Utd  vs  Dandenong City  ",
+            "liveStatus": 1,
             "matchId": "69759ign4mwtgk2",
             "nickName": "BLV WARRIOR",
             "playStreamAddress": "https://live5.msrktz.app/live/97885009.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97885009.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MzkwNDEyYWVjOTEtZGM4Nw/MzllNDQ3M2FhMDUtMDc5Mg.jpg",
-            "visitHistory": 844606
+            "visitHistory": 844663
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4476024",
@@ -4083,9 +3897,9 @@
           "competition_id": "9dn1m1gh4vgmoep",
           "custom_key": "17ee4d28909c2e07f95ee000585a1f6c",
           "environment": {
-            "humidity": "75%",
+            "humidity": "73%",
             "pressure": "762mmHg",
-            "temperature": "23°C",
+            "temperature": "24°C",
             "weather": 7,
             "wind": "1.8m/s"
           },
@@ -4125,9 +3939,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "75%",
+              "humidity": "73%",
               "pressure": "762mmHg",
-              "temperature": "23°C",
+              "temperature": "24°C",
               "weather": 7,
               "wind": "1.8m/s"
             },
@@ -4154,7 +3968,7 @@
             },
             "season_id": "k82rekhvzy9repz",
             "status_id": 1,
-            "updated_at": 1772115638,
+            "updated_at": 1772133639,
             "venue_id": "kjw2r09h18orz84"
           },
           "referee_id": "",
@@ -4162,7 +3976,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09h18orz84"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.307Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.303Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4258,7 +4072,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2227466
+            "visitHistory": 2227476
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4477082",
@@ -4552,13 +4366,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
             "houseIntroduction": "",
             "houseName": "   \t UEFA EL  Nottingham Forest  vs Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "xvkjoi8mxv0u879",
             "nickName": "BLV ÔLONG",
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2227598
+            "visitHistory": 2227626
           },
           {
             "anchorTitle": "",
@@ -4567,14 +4381,14 @@
             "houseId": "90865415",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg",
             "houseIntroduction": "",
-            "houseName": "   \t UEFA EL  VfB Stuttgart  vs Celtic",
-            "liveStatus": 2,
+            "houseName": "VIE D2   Truong Tuoi Dong Nai  vs  Dong Thap  ",
+            "liveStatus": 1,
             "matchId": "xvkjoi8mxv0u879",
             "nickName": "BLV 247",
             "playStreamAddress": "https://live5.msrktz.app/live/90865415.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90865415.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",
-            "visitHistory": 499014
+            "visitHistory": 499073
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343268",
@@ -4720,7 +4534,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6099430
+            "visitHistory": 6099517
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470658",
@@ -4800,7 +4614,7 @@
           "competition_id": "z318q66hl1qo9jd",
           "custom_key": "de5a67750d64f1c175c8c900e5498ff1",
           "environment": {
-            "humidity": "79%",
+            "humidity": "78%",
             "pressure": "760mmHg",
             "temperature": "13°C",
             "weather": 7,
@@ -4842,7 +4656,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "79%",
+              "humidity": "78%",
               "pressure": "760mmHg",
               "temperature": "13°C",
               "weather": 7,
@@ -4871,7 +4685,7 @@
             },
             "season_id": "4jwq2gh4o48m0ve",
             "status_id": 1,
-            "updated_at": 1772125839,
+            "updated_at": 1772133641,
             "venue_id": "e4wyrn4hplyq86p"
           },
           "referee_id": "",
@@ -4879,7 +4693,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4hplyq86p"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.768Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.728Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4900,7 +4714,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2129486
+            "visitHistory": 2129570
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465482",
@@ -4969,13 +4783,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
             "houseIntroduction": "",
             "houseName": "   \t UEFA EL  Nottingham Forest  vs Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "wv78xiv5ww2iokr",
             "nickName": "BLV ÔLONG",
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2227598
+            "visitHistory": 2227626
           },
           {
             "anchorTitle": "",
@@ -5071,9 +4885,9 @@
           "competition_id": "9k82rekhvz2repz",
           "custom_key": "a2392626d1078820a34701a6369e62d3",
           "environment": {
-            "humidity": "75%",
+            "humidity": "73%",
             "pressure": "762mmHg",
-            "temperature": "23°C",
+            "temperature": "24°C",
             "weather": 7,
             "wind": "1.8m/s"
           },
@@ -5113,9 +4927,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "75%",
+              "humidity": "73%",
               "pressure": "762mmHg",
-              "temperature": "23°C",
+              "temperature": "24°C",
               "weather": 7,
               "wind": "1.8m/s"
             },
@@ -5142,7 +4956,7 @@
             },
             "season_id": "j1l4rjnhvdjm7vx",
             "status_id": 1,
-            "updated_at": 1772115638,
+            "updated_at": 1772133642,
             "venue_id": "kn54qllhe0nqvy9"
           },
           "referee_id": "z8yomo4h206q0j6",
@@ -5150,7 +4964,7 @@
           "status_id": 1,
           "venue_id": "kn54qllhe0nqvy9"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.571Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.561Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5165,13 +4979,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
             "houseIntroduction": "",
             "houseName": "   \t UEFA EL  Nottingham Forest  vs Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "o17pjioj4p4fy7j",
             "nickName": "BLV ÔLONG",
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2227598
+            "visitHistory": 2227626
           },
           {
             "anchorTitle": "",
@@ -5181,17 +4995,18 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
             "houseIntroduction": "",
             "houseName": "UEFA EL\tNottingham Forest\t  vs  Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "o17pjioj4p4fy7j",
             "nickName": "BLV COCA",
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4098585
+            "visitHistory": 4098670
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4487150",
         "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4487150",
+        "auto_unpin_minutes": 110,
         "awayScore": [
           0,
           0,
@@ -5235,7 +5050,7 @@
           "logo": "https://img.colatv88xd.cc/football/team/62572999d107f777efa4aeb907443527.png!w80",
           "name": "Nottingham Forest"
         },
-        "house_id": null,
+        "house_id": "97312754",
         "matchId": "o17pjioj4p4fy7j",
         "matchStatus": 1,
         "matchTime": 1772136000,
@@ -5271,7 +5086,7 @@
             "pressure": "758mmHg",
             "temperature": "11°C",
             "weather": 10,
-            "wind": "5.6m/s"
+            "wind": "6.1m/s"
           },
           "home_scores": [
             0,
@@ -5317,7 +5132,7 @@
               "pressure": "758mmHg",
               "temperature": "11°C",
               "weather": 10,
-              "wind": "5.6m/s"
+              "wind": "6.1m/s"
             },
             "home_position": "17",
             "home_scores": [
@@ -5343,7 +5158,7 @@
             },
             "season_id": "v2y8m4zhl38ql07",
             "status_id": 1,
-            "updated_at": 1772131867,
+            "updated_at": 1772133643,
             "venue_id": "jednm9wh9j4ryox"
           },
           "referee_id": "p3glrw7h19yqdyj",
@@ -5351,7 +5166,8 @@
           "status_id": 1,
           "venue_id": "jednm9wh9j4ryox"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.475Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.467Z",
+        "pin_hot_anchor": "97312754",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -5373,7 +5189,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6099430
+            "visitHistory": 6099517
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339840",
@@ -5528,7 +5344,7 @@
           "competition_id": "gpxwrxlh0nryk0j",
           "custom_key": "3f6858ada2bce50ae764451b6e476df6",
           "environment": {
-            "humidity": "91%",
+            "humidity": "92%",
             "pressure": "756mmHg",
             "temperature": "10°C",
             "weather": 10,
@@ -5574,7 +5390,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "91%",
+              "humidity": "92%",
               "pressure": "756mmHg",
               "temperature": "10°C",
               "weather": 10,
@@ -5605,7 +5421,7 @@
             "season_id": "l5ergpho00or8k0",
             "status_id": 1,
             "tbd": 1,
-            "updated_at": 1772119838,
+            "updated_at": 1772133643,
             "venue_id": ""
           },
           "referee_id": "",
@@ -5613,7 +5429,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.391Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.380Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5705,7 +5521,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2129487
+            "visitHistory": 2129570
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4487146",
@@ -5714,9 +5530,9 @@
           1,
           1,
           0,
-          3,
+          5,
+          2,
           1,
-          0,
           0
         ],
         "awayTeamId": "9oj7x9ilpwbr7g3",
@@ -5740,9 +5556,9 @@
           1,
           0,
           0,
-          0,
-          6,
-          0,
+          1,
+          7,
+          1,
           0
         ],
         "homeTeamId": "59gklzi80gs17xd",
@@ -5766,7 +5582,7 @@
             1,
             1,
             0,
-            1,
+            3,
             1,
             0,
             0
@@ -5785,18 +5601,18 @@
           "competition_id": "56ypq3nh0xmd7oj",
           "custom_key": "25f5287a9547680b746c5bd3bfe79f56",
           "environment": {
-            "humidity": "90%",
+            "humidity": "89%",
             "pressure": "770mmHg",
             "temperature": "7°C",
-            "weather": 1,
-            "wind": "3.1m/s"
+            "weather": 5,
+            "wind": "1.1m/s"
           },
           "home_scores": [
+            1,
             0,
             0,
-            0,
-            0,
-            5,
+            1,
+            6,
             0,
             0
           ],
@@ -5811,7 +5627,7 @@
           "match_time": 1772127900,
           "raw": {
             "agg_score": [
-              2,
+              3,
               3
             ],
             "away_position": "5",
@@ -5819,7 +5635,7 @@
               1,
               1,
               0,
-              1,
+              3,
               1,
               0,
               0
@@ -5831,19 +5647,19 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "90%",
+              "humidity": "89%",
               "pressure": "770mmHg",
               "temperature": "7°C",
-              "weather": 1,
-              "wind": "3.1m/s"
+              "weather": 5,
+              "wind": "1.1m/s"
             },
             "home_position": "4",
             "home_scores": [
+              1,
               0,
               0,
-              0,
-              0,
-              5,
+              1,
+              6,
               0,
               0
             ],
@@ -5861,7 +5677,7 @@
             },
             "season_id": "v2y8m4zhl38ql07",
             "status_id": 4,
-            "updated_at": 1772132442,
+            "updated_at": 1772134240,
             "venue_id": "9vjxm8ghj94r6od"
           },
           "referee_id": "v2y8m4zhj8xql07",
@@ -5869,11 +5685,11 @@
           "status_id": 4,
           "venue_id": "9vjxm8ghj94r6od"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.381Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.374Z",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https://live4.trendgallary.com/live/68417312_339030aa237562db60102efbdd24c409_autoChange.m3u8?auth_key=1772147621-0-0-1fd34f22cd93b9325564ddacaaa794f6",
-        "video_url": "https://live4.trendgallary.com/live/68417312_339030aa237562db60102efbdd24c409_autoChange.m3u8?auth_key=1772147621-0-0-1fd34f22cd93b9325564ddacaaa794f6"
+        "videoUrl": "https://live4.trendgallary.com/live/68417312_339030aa237562db60102efbdd24c409_autoChange.m3u8?auth_key=1772150107-0-0-82fc3319d404c4876524d80cf043ad90",
+        "video_url": "https://live4.trendgallary.com/live/68417312_339030aa237562db60102efbdd24c409_autoChange.m3u8?auth_key=1772150107-0-0-82fc3319d404c4876524d80cf043ad90"
       },
       "psbs-biak-numfor-vs-psim-yogyakarta-luc-2030-ngay-27-02-2026-527r3i4y2ywt47e": {
         "anchorAppointmentVoList": [
@@ -5971,7 +5787,7 @@
           "competition_id": "56ypq3nhz53md7o",
           "custom_key": "1d2f8c0042043dc2a866903ed451d740",
           "environment": {
-            "humidity": "95%",
+            "humidity": "94%",
             "pressure": "756mmHg",
             "temperature": "26°C",
             "weather": 7,
@@ -6013,7 +5829,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "95%",
+              "humidity": "94%",
               "pressure": "756mmHg",
               "temperature": "26°C",
               "weather": 7,
@@ -6042,7 +5858,7 @@
             },
             "season_id": "4zp5rzgh80yq82w",
             "status_id": 1,
-            "updated_at": 1772092843,
+            "updated_at": 1772133638,
             "venue_id": "l7oqdehn47vr510"
           },
           "referee_id": "",
@@ -6050,7 +5866,7 @@
           "status_id": 1,
           "venue_id": "l7oqdehn47vr510"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.309Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.305Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6071,7 +5887,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1550020
+            "visitHistory": 1550105
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465515",
@@ -6214,14 +6030,14 @@
             "houseId": "90865415",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg",
             "houseIntroduction": "",
-            "houseName": "   \t UEFA EL  VfB Stuttgart  vs Celtic",
-            "liveStatus": 2,
+            "houseName": "VIE D2   Truong Tuoi Dong Nai  vs  Dong Thap  ",
+            "liveStatus": 1,
             "matchId": "o17pjiorj93iy7j",
             "nickName": "BLV 247",
             "playStreamAddress": "https://live5.msrktz.app/live/90865415.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90865415.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",
-            "visitHistory": 499014
+            "visitHistory": 499073
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347895",
@@ -6455,7 +6271,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdeh6eor510"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.478Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.470Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6470,13 +6286,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
             "houseIntroduction": "",
             "houseName": "UEFA EL\tNottingham Forest\t  vs  Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "vrqwni49z5vu4qn",
             "nickName": "BLV COCA",
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4098585
+            "visitHistory": 4098670
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470748",
@@ -6635,7 +6451,7 @@
           "status_id": 1,
           "venue_id": "l7oqdehn4jor510"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.300Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.297Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6736,11 +6552,11 @@
           "competition_id": "4zp5rzgh9zq82w1",
           "custom_key": "29a28b9871f1fd9bb52ad9c2d34139de",
           "environment": {
-            "humidity": "94%",
+            "humidity": "96%",
             "pressure": "756mmHg",
-            "temperature": "25°C",
+            "temperature": "24°C",
             "weather": 10,
-            "wind": "5.3m/s"
+            "wind": "3.2m/s"
           },
           "home_scores": [
             0,
@@ -6778,11 +6594,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "94%",
+              "humidity": "96%",
               "pressure": "756mmHg",
-              "temperature": "25°C",
+              "temperature": "24°C",
               "weather": 10,
-              "wind": "5.3m/s"
+              "wind": "3.2m/s"
             },
             "home_position": "20",
             "home_scores": [
@@ -6807,7 +6623,7 @@
             },
             "season_id": "3glrw7hwkk4qdyj",
             "status_id": 1,
-            "updated_at": 1772120439,
+            "updated_at": 1772133641,
             "venue_id": "z8yomo4hkk0q0j6"
           },
           "referee_id": "vl7oqdeh1zzr510",
@@ -6815,7 +6631,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4hkk0q0j6"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.382Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.375Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -7142,9 +6958,9 @@
           "competition_id": "9dn1m1gh4vgmoep",
           "custom_key": "0da791f23c5ee1fde996dfbb8ed98a17",
           "environment": {
-            "humidity": "75%",
+            "humidity": "73%",
             "pressure": "762mmHg",
-            "temperature": "23°C",
+            "temperature": "24°C",
             "weather": 7,
             "wind": "1.8m/s"
           },
@@ -7184,9 +7000,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "75%",
+              "humidity": "73%",
               "pressure": "762mmHg",
-              "temperature": "23°C",
+              "temperature": "24°C",
               "weather": 7,
               "wind": "1.8m/s"
             },
@@ -7213,7 +7029,7 @@
             },
             "season_id": "k82rekhvzy9repz",
             "status_id": 1,
-            "updated_at": 1772115638,
+            "updated_at": 1772133639,
             "venue_id": "kjw2r09hv44rz84"
           },
           "referee_id": "",
@@ -7221,7 +7037,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09hv44rz84"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.304Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.300Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7317,7 +7133,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2129486
+            "visitHistory": 2129569
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347575",
@@ -7551,7 +7367,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlh2ojryk0"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.768Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.728Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7718,7 +7534,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdehk39r510"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.651Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.645Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7732,14 +7548,14 @@
             "houseId": "97885009",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png",
             "houseIntroduction": "",
-            "houseName": "UEFA EL\tFerencvaros\tvs Ludogorets Razgrad",
-            "liveStatus": 2,
+            "houseName": "Aus VPL   Heidelberg Utd  vs  Dandenong City  ",
+            "liveStatus": 1,
             "matchId": "wv78xivdx4ltokr",
             "nickName": "BLV WARRIOR",
             "playStreamAddress": "https://live5.msrktz.app/live/97885009.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97885009.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MzkwNDEyYWVjOTEtZGM4Nw/MzllNDQ3M2FhMDUtMDc5Mg.jpg",
-            "visitHistory": 844606
+            "visitHistory": 844663
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347573",
@@ -8023,194 +7839,6 @@
         "sport_id": 1,
         "video_url": null
       },
-      "vfb-stuttgart-vs-celtic-luc-0045-ngay-27-02-2026-vmqy9ivly8vagk9": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 54,
-            "houseId": "90865415",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg",
-            "houseIntroduction": "",
-            "houseName": "   \t UEFA EL  VfB Stuttgart  vs Celtic",
-            "liveStatus": 2,
-            "matchId": "vmqy9ivly8vagk9",
-            "nickName": "BLV 247",
-            "playStreamAddress": "https://live5.msrktz.app/live/90865415.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/90865415.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",
-            "visitHistory": 499014
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4487149",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4487149",
-        "auto_unpin_minutes": 110,
-        "awayScore": [
-          1,
-          1,
-          0,
-          1,
-          7,
-          0,
-          0
-        ],
-        "awayTeamId": "5wv78xizezbnkrj",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/4952d00987ef86afeda3204d66ac3fd6.png!w80",
-        "awayTeamName": "Celtic",
-        "away_team": {
-          "id": "5wv78xizezbnkrj",
-          "logo": "https://img.colatv88xd.cc/football/team/4952d00987ef86afeda3204d66ac3fd6.png!w80",
-          "name": "Celtic"
-        },
-        "competition": {
-          "id": "2jr7owi6es1q0em",
-          "logo": "https://img.colatv88xd.cc/football/competition/1792ba5a12171fedc6d543bdf173f37c.png!w80",
-          "name": "Europa League"
-        },
-        "competitionId": "2jr7owi6es1q0em",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/1792ba5a12171fedc6d543bdf173f37c.png!w80",
-        "competitionName": "Europa League",
-        "custom_key": "632d494005e85c925ddca5bf5c989f87",
-        "homeScore": [
-          0,
-          0,
-          0,
-          0,
-          9,
-          0,
-          0
-        ],
-        "homeTeamId": "1edq09i1ozt4qxg",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/bfdd500484330d63a723cbc396df762c.png!w80",
-        "homeTeamName": "VfB Stuttgart",
-        "home_team": {
-          "id": "1edq09i1ozt4qxg",
-          "logo": "https://img.colatv88xd.cc/football/team/bfdd500484330d63a723cbc396df762c.png!w80",
-          "name": "VfB Stuttgart"
-        },
-        "house_id": "90865415",
-        "matchId": "vmqy9ivly8vagk9",
-        "matchStatus": 2,
-        "matchTime": 1772127900,
-        "match_id": "vmqy9ivly8vagk9",
-        "match_status": "live",
-        "match_time": 1772127900,
-        "node_api_data": {
-          "_id": "699f90f23f5a939938788d5b",
-          "away_scores": [
-            1,
-            1,
-            0,
-            1,
-            7,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "9vjxm8gho3or6od",
-            "logo": "https://img.thesports.com/football/team/4952d00987ef86afeda3204d66ac3fd6.png",
-            "name": "Celtic FC"
-          },
-          "away_team_id": "9vjxm8gho3or6od",
-          "competition": {
-            "id": "56ypq3nh0xmd7oj",
-            "logo": "https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",
-            "name": "UEFA Europa League"
-          },
-          "competition_id": "56ypq3nh0xmd7oj",
-          "custom_key": "632d494005e85c925ddca5bf5c989f87",
-          "environment": {
-            "humidity": "77%",
-            "pressure": "769mmHg",
-            "temperature": "12°C",
-            "weather": 5,
-            "wind": "2.1m/s"
-          },
-          "home_scores": [
-            0,
-            0,
-            0,
-            0,
-            7,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "gx7lm7phd7em2wd",
-            "logo": "https://img.thesports.com/football/team/bfdd500484330d63a723cbc396df762c.png",
-            "name": "VfB Stuttgart"
-          },
-          "home_team_id": "gx7lm7phd7em2wd",
-          "match_date_vn": "20260227",
-          "match_id": "8yomo4h13yv1q0j",
-          "match_time": 1772127900,
-          "raw": {
-            "agg_score": [
-              4,
-              2
-            ],
-            "away_position": "3",
-            "away_scores": [
-              1,
-              1,
-              0,
-              1,
-              7,
-              0,
-              0
-            ],
-            "away_team_id": "9vjxm8gho3or6od",
-            "competition_id": "56ypq3nh0xmd7oj",
-            "coverage": {
-              "lineup": 1,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "77%",
-              "pressure": "769mmHg",
-              "temperature": "12°C",
-              "weather": 5,
-              "wind": "2.1m/s"
-            },
-            "home_position": "4",
-            "home_scores": [
-              0,
-              0,
-              0,
-              0,
-              7,
-              0,
-              0
-            ],
-            "home_team_id": "gx7lm7phd7em2wd",
-            "id": "8yomo4h13yv1q0j",
-            "match_time": 1772127900,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "z8yomo4hk1pq0j6",
-            "related_id": "318q66hxw84jqo9",
-            "round": {
-              "group_num": 0,
-              "round_num": 0,
-              "stage_id": "x7lm7ph219xm2wd"
-            },
-            "season_id": "v2y8m4zhl38ql07",
-            "status_id": 4,
-            "updated_at": 1772132443,
-            "venue_id": "p3glrw7hwvjqdyj"
-          },
-          "referee_id": "z8yomo4hk1pq0j6",
-          "season_id": "v2y8m4zhl38ql07",
-          "status_id": 4,
-          "venue_id": "p3glrw7hwvjqdyj"
-        },
-        "node_api_updated_at": "2026-02-26T19:13:17.479Z",
-        "pin_hot_anchor": "90865415",
-        "sportId": 1,
-        "sport_id": 1,
-        "videoUrl": "https://live5.trendgallary.com/live/68417324_d1a67dff9078bd3367f0d8a7a8f7592f_autoChange.m3u8?auth_key=1772147622-0-0-a8223b87c364c19c1a8c3b0d2c7f6199",
-        "video_url": "https://live5.trendgallary.com/live/68417324_d1a67dff9078bd3367f0d8a7a8f7592f_autoChange.m3u8?auth_key=1772147622-0-0-a8223b87c364c19c1a8c3b0d2c7f6199"
-      },
       "vissel-kobe-vs-avispa-fukuoka-luc-1700-ngay-27-02-2026-j374oi09wyvugqo": {
         "anchorAppointmentVoList": [
           {
@@ -8221,13 +7849,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzI3M2E2ZmE2ZTktODc2NQ/ZThlNTczYTc4M2EtZjJkNw.png",
             "houseIntroduction": "kết bạn zalo/telegram để vào nhóm soi kèo, khuyến mãi tiền thưởng miễn phí tặng mỗi ngày!",
             "houseName": "UEFA ECL  Crystal Palace  vs  Zrinjski Mostar  ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "j374oi09wyvugqo",
             "nickName": "BLV DR THANH",
             "playStreamAddress": "https://live5.msrktz.app/live/79665343.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/79665343.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/N2VhNzAxMzY0ZDUtMTE1NQ/NDY0ZWExN2NiMzQtZTRhMw.jpg",
-            "visitHistory": 1102269
+            "visitHistory": 1102293
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470750",
@@ -8386,7 +8014,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphnzkr8k0"
         },
-        "node_api_updated_at": "2026-02-26T19:13:17.650Z",
+        "node_api_updated_at": "2026-02-26T19:55:17.644Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -8407,7 +8035,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2227466
+            "visitHistory": 2227476
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4501017",
@@ -8476,13 +8104,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
             "houseIntroduction": "",
             "houseName": "   \t UEFA EL  Nottingham Forest  vs Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "jr7owipldm4cgq0",
             "nickName": "BLV ÔLONG",
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2227598
+            "visitHistory": 2227626
           },
           {
             "anchorTitle": "",
@@ -8492,13 +8120,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
             "houseIntroduction": "",
             "houseName": "UEFA EL\tNottingham Forest\t  vs  Fenerbahce",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "jr7owipldm4cgq0",
             "nickName": "BLV COCA",
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4098585
+            "visitHistory": 4098670
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343274",
@@ -8642,13 +8270,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
             "houseName": "UEFA EL Celta Vigo vs PAOK",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "vmqy9ivp8defgk9",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
-            "visitHistory": 3632615
+            "visitHistory": 3632623
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4357032",
