@@ -4,7 +4,7 @@ from datetime import datetime
 import os
 
 # Your proxy URL that works
-PROXY_URL = "https://api.codetabs.com/v1/proxy?quest=https%3A%2F%2Fwww.footyfeed.site%2Fapi%2Fproxy.js"
+PROXY_URL = "https://api.codetabs.com/v1/proxy?quest=https://colatv88xd.cc/api/matches"
 OUTPUT_FILE = "streams.json"
 
 def fetch_and_save():
