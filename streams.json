@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T23:23:13.791234",
+  "last_updated": "2026-03-01T23:42:27.013595",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -94,13 +94,13 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1076575
+            "visitHistory": 1076612
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/basketball?profile=74rekh26eseunr0&showTrend=false&id=3866004",
         "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/basketball?profile=74rekh26eseunr0&showTrend=false&id=3866004",
         "awayScore": [
-          14,
+          25,
           0,
           0,
           0,
@@ -124,7 +124,7 @@
         "competitionName": "Hiệp hội Bóng rổ Quốc gia",
         "custom_key": "f16d48acf35911a56200be3c5d67f430",
         "homeScore": [
-          21,
+          44,
           0,
           0,
           0,
@@ -147,8 +147,8 @@
         "match_time": 1772406000,
         "sportId": 2,
         "sport_id": 2,
-        "videoUrl": "https://live1.trendgallary.com/live/62925751_008743ad017d00d472d519011e7dba5b_autoChange.m3u8?auth_key=1772421697-0-0-e78897060b53a367a79bccbf913a6642",
-        "video_url": "https://live1.trendgallary.com/live/62925751_008743ad017d00d472d519011e7dba5b_autoChange.m3u8?auth_key=1772421697-0-0-e78897060b53a367a79bccbf913a6642"
+        "videoUrl": "https://live1.trendgallary.com/live/62925751_008743ad017d00d472d519011e7dba5b_autoChange.m3u8?auth_key=1772422917-0-0-63ecb781b2ceca9c041578ef5002894c",
+        "video_url": "https://live1.trendgallary.com/live/62925751_008743ad017d00d472d519011e7dba5b_autoChange.m3u8?auth_key=1772422917-0-0-63ecb781b2ceca9c041578ef5002894c"
       },
       "birmingham-city-vs-middlesbrough-luc-0300-ngay-03-03-2026-ezk96i3d1rxb1kn": {
         "anchorAppointmentVoList": [
@@ -416,7 +416,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdeh01wr510"
         },
-        "node_api_updated_at": "2026-03-01T23:22:48.170Z",
+        "node_api_updated_at": "2026-03-01T23:41:48.189Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -506,13 +506,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
             "houseIntroduction": "",
             "houseName": "USA MLS\tOrlando City\tvs Inter Miami",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "g6763i5rgx9co7r",
             "nickName": "BLV FANTA",
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229041
+            "visitHistory": 2229066
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465095",
@@ -731,13 +731,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
             "houseName": "USA MLS\tOrlando City\tvs  Inter Miami",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "527r3i44wg3a47e",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 214313
+            "visitHistory": 214346
           },
           {
             "anchorTitle": "",
@@ -987,7 +987,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdeh0oyr510"
         },
-        "node_api_updated_at": "2026-03-01T23:22:47.913Z",
+        "node_api_updated_at": "2026-03-01T23:41:47.927Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -1184,7 +1184,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4hvzwq0j6"
         },
-        "node_api_updated_at": "2026-03-01T23:22:48.317Z",
+        "node_api_updated_at": "2026-03-01T23:41:48.333Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1421,13 +1421,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
             "houseName": "USA MLS\tOrlando City\tvs  Inter Miami",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "xvkjoi8z026h879",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 214313
+            "visitHistory": 214346
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4472423",
@@ -1586,7 +1586,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphpp0r8k0"
         },
-        "node_api_updated_at": "2026-03-01T23:22:48.245Z",
+        "node_api_updated_at": "2026-03-01T23:41:48.258Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1682,7 +1682,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2230824
+            "visitHistory": 2230863
           },
           {
             "anchorTitle": "",
@@ -1923,7 +1923,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1076574
+            "visitHistory": 1076611
           }
         ],
         "animation_url": null,
@@ -2152,7 +2152,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-01T23:22:48.082Z",
+        "node_api_updated_at": "2026-03-01T23:41:48.101Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2323,13 +2323,13 @@
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2230824
+            "visitHistory": 2230863
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465100",
         "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465100",
         "awayScore": [
-          1,
+          2,
           1,
           0,
           0,
@@ -2358,8 +2358,8 @@
           1,
           0,
           0,
-          1,
           2,
+          5,
           0,
           0
         ],
@@ -2482,11 +2482,11 @@
           "status_id": 3,
           "venue_id": "kn54qllh3v8qvy9"
         },
-        "node_api_updated_at": "2026-03-01T23:22:47.914Z",
+        "node_api_updated_at": "2026-03-01T23:41:47.928Z",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https://live.trendgallary.com/live/13376038_1096e0fe37b0c921c23b84a6563b1b3c_autoChange.m3u8?auth_key=1772421697-0-0-357b77438984a1de38fa483b25254100",
-        "video_url": "https://live.trendgallary.com/live/13376038_1096e0fe37b0c921c23b84a6563b1b3c_autoChange.m3u8?auth_key=1772421697-0-0-357b77438984a1de38fa483b25254100"
+        "videoUrl": "https://live.trendgallary.com/live/13376038_1096e0fe37b0c921c23b84a6563b1b3c_autoChange.m3u8?auth_key=1772422917-0-0-b5910ec88b125e04fb5c81ad0b516c7e",
+        "video_url": "https://live.trendgallary.com/live/13376038_1096e0fe37b0c921c23b84a6563b1b3c_autoChange.m3u8?auth_key=1772422917-0-0-b5910ec88b125e04fb5c81ad0b516c7e"
       },
       "los-angeles-lakers-vs-sacramento-kings-luc-0930-ngay-02-03-2026-63kvlso55letx7e": {
         "anchorAppointmentVoList": [
@@ -2504,7 +2504,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1076575
+            "visitHistory": 1076612
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/basketball?profile=74rekh26eseunr0&showTrend=false&id=3865985",
@@ -2714,13 +2714,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
             "houseName": "USA MLS\tOrlando City\tvs  Inter Miami",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ezk96i3gwdoa1kn",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 214313
+            "visitHistory": 214346
           },
           {
             "anchorTitle": "",
@@ -2730,13 +2730,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
             "houseIntroduction": "",
             "houseName": "USA MLS\tOrlando City\tvs Inter Miami",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ezk96i3gwdoa1kn",
             "nickName": "BLV FANTA",
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229041
+            "visitHistory": 2229066
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460022",
@@ -2895,7 +2895,7 @@
           "status_id": 1,
           "venue_id": "kn54qllhk38qvy9"
         },
-        "node_api_updated_at": "2026-03-01T23:22:48.247Z",
+        "node_api_updated_at": "2026-03-01T23:41:48.260Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -3076,7 +3076,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4h93pq86p"
         },
-        "node_api_updated_at": "2026-03-01T23:22:47.832Z",
+        "node_api_updated_at": "2026-03-01T23:41:47.843Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3316,13 +3316,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
             "houseName": "USA MLS\tOrlando City\tvs  Inter Miami",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "jek33i8o03ls9ko",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 214313
+            "visitHistory": 214346
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4379519",
@@ -3481,7 +3481,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09h1zorz84"
         },
-        "node_api_updated_at": "2026-03-01T23:22:48.314Z",
+        "node_api_updated_at": "2026-03-01T23:41:48.329Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3512,13 +3512,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
             "houseIntroduction": "",
             "houseName": "USA MLS\tOrlando City\tvs Inter Miami",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "zrkn6i458eptwql",
             "nickName": "BLV FANTA",
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229041
+            "visitHistory": 2229066
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4474623",
@@ -3677,7 +3677,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4hxpkq86p"
         },
-        "node_api_updated_at": "2026-03-01T23:22:47.998Z",
+        "node_api_updated_at": "2026-03-01T23:41:48.013Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3698,7 +3698,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2230824
+            "visitHistory": 2230863
           },
           {
             "anchorTitle": "",
@@ -4039,7 +4039,7 @@
           "status_id": 1,
           "venue_id": "ednm9whk90pryox"
         },
-        "node_api_updated_at": "2026-03-01T23:22:48.082Z",
+        "node_api_updated_at": "2026-03-01T23:41:48.101Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4294,7 +4294,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7hl5zqdyj"
         },
-        "node_api_updated_at": "2026-03-01T23:22:48.080Z",
+        "node_api_updated_at": "2026-03-01T23:41:48.099Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4765,7 +4765,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2230824
+            "visitHistory": 2230863
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4340758",
