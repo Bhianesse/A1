@@ -1,27 +1,11 @@
 {
-  "last_updated": "2026-03-01T15:20:02.455281",
+  "last_updated": "2026-03-01T15:41:45.651842",
   "event_count": 3,
   "events": {
     "code": "0000",
     "data": {
       "arsenal-vs-chelsea-luc-2330-ngay-01-03-2026-9gklzi1yom2im7x": {
         "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 121,
-            "houseId": "97312754",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
-            "houseIntroduction": "",
-            "houseName": "ENG PR Manchester Utd  vs  Crystal Palace ",
-            "liveStatus": 2,
-            "matchId": "9gklzi1yom2im7x",
-            "nickName": "BLV ÔLONG",
-            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2229854
-          },
           {
             "anchorTitle": "",
             "anchorTypeName": "足球",
@@ -36,23 +20,23 @@
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4102235
+            "visitHistory": 4102306
           },
           {
             "anchorTitle": "",
             "anchorTypeName": "足球",
-            "fansCount": 478,
-            "houseId": "43612277",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjA4Yzc0MjYyMzYtMDg3ZA/ZjFmYTExYjgzY2QtNjBhZg.png",
+            "fansCount": 121,
+            "houseId": "97312754",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
             "houseIntroduction": "",
-            "houseName": "ENG PR Arsenal vs Chelsea",
-            "liveStatus": 1,
+            "houseName": "ENG PR Manchester Utd  vs  Crystal Palace ",
+            "liveStatus": 2,
             "matchId": "9gklzi1yom2im7x",
-            "nickName": "BLV PEPSI",
-            "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6101720
+            "nickName": "BLV ÔLONG",
+            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
+            "visitHistory": 2229869
           },
           {
             "anchorTitle": "",
@@ -69,6 +53,22 @@
             "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
             "visitHistory": 3634374
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 478,
+            "houseId": "43612277",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjA4Yzc0MjYyMzYtMDg3ZA/ZjFmYTExYjgzY2QtNjBhZg.png",
+            "houseIntroduction": "",
+            "houseName": "ENG PR Arsenal vs Chelsea",
+            "liveStatus": 1,
+            "matchId": "9gklzi1yom2im7x",
+            "nickName": "BLV PEPSI",
+            "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
+            "visitHistory": 6101720
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343251",
@@ -227,7 +227,7 @@
           "status_id": 1,
           "venue_id": "kn54qllh20kqvy9"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.058Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.036Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -248,7 +248,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/68848594.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/68848594.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YmVkOWQzNzBlMzctZjNmYQ/NTQ3NDg5M2RjZWYtYjc2OQ.jpg",
-            "visitHistory": 1399319
+            "visitHistory": 1399323
           }
         ],
         "animation_url": null,
@@ -311,22 +311,6 @@
           {
             "anchorTitle": "",
             "anchorTypeName": "足球",
-            "fansCount": 121,
-            "houseId": "97312754",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
-            "houseIntroduction": "",
-            "houseName": "ENG PR Manchester Utd  vs  Crystal Palace ",
-            "liveStatus": 2,
-            "matchId": "xvkjoi89enna879",
-            "nickName": "BLV ÔLONG",
-            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2229854
-          },
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
             "fansCount": 162,
             "houseId": "24561735",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
@@ -338,7 +322,23 @@
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4102235
+            "visitHistory": 4102306
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 121,
+            "houseId": "97312754",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
+            "houseIntroduction": "",
+            "houseName": "ENG PR Manchester Utd  vs  Crystal Palace ",
+            "liveStatus": 2,
+            "matchId": "xvkjoi89enna879",
+            "nickName": "BLV ÔLONG",
+            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
+            "visitHistory": 2229869
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339834",
@@ -497,7 +497,7 @@
           "status_id": 1,
           "venue_id": "l965mkyh43pr1ge"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.145Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.110Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -518,7 +518,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1076390
+            "visitHistory": 1076430
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/basketball?profile=74rekh26eseunr0&showTrend=false&id=3866004",
@@ -605,7 +605,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1551974
+            "visitHistory": 1552018
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4351524",
@@ -680,7 +680,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1076390
+            "visitHistory": 1076430
           },
           {
             "anchorTitle": "",
@@ -696,7 +696,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2217103
+            "visitHistory": 2217151
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343257",
@@ -787,8 +787,8 @@
             2,
             2,
             0,
-            0,
-            2,
+            1,
+            4,
             0,
             0
           ],
@@ -830,8 +830,8 @@
               2,
               2,
               0,
-              0,
-              2,
+              1,
+              4,
               0,
               0
             ],
@@ -848,7 +848,7 @@
             },
             "season_id": "l965mkyhjpxr1ge",
             "status_id": 4,
-            "updated_at": 1772377717,
+            "updated_at": 1772378168,
             "venue_id": "56ypq3nhzz3md7o"
           },
           "referee_id": "p3glrw7h1ynqdyj",
@@ -856,11 +856,12 @@
           "status_id": 4,
           "venue_id": "56ypq3nhzz3md7o"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.149Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.115Z",
         "pin_hot_anchor": "87379114",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https://live.trendgallary.com/live/12483232_db4fb2ce3b3a24b2fe30934ef8fc75d8_autoChange.m3u8?auth_key=1772394063-0-0-7925c2910427ffe28362e44a6445fec9",
+        "video_url": "https://live.trendgallary.com/live/12483232_db4fb2ce3b3a24b2fe30934ef8fc75d8_autoChange.m3u8?auth_key=1772394063-0-0-7925c2910427ffe28362e44a6445fec9",
         "zalo_enabled": true,
         "zalo_phone": "0385 225 688"
       },
@@ -874,7 +875,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
             "houseName": "   \t FRA D1 Metz vs Brest",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "o07dni5w2wgtmkn",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
@@ -1039,7 +1040,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdeh01wr510"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.057Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.035Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1135,7 +1136,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229020
+            "visitHistory": 2229034
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465095",
@@ -1360,7 +1361,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 213780
+            "visitHistory": 213814
           },
           {
             "anchorTitle": "",
@@ -1370,7 +1371,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
             "houseName": "   \t FRA D1 Metz vs Brest",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "527r3i44wg3a47e",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
@@ -1610,29 +1611,13 @@
           "status_id": 1,
           "venue_id": "vl7oqdeh0oyr510"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.778Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.781Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
       "daejeon-vs-fc-anyang-luc-1200-ngay-02-03-2026-vrqwni49d5rt4qn": {
         "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 89,
-            "houseId": "14830711",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
-            "houseIntroduction": "",
-            "houseName": "ENG PR   Arsenal  vs  Chelsea  ",
-            "liveStatus": 1,
-            "matchId": "vrqwni49d5rt4qn",
-            "nickName": "BLV GIÀ LÀNG",
-            "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
-            "visitHistory": 3634374
-          },
           {
             "anchorTitle": "",
             "anchorTypeName": "足球",
@@ -1648,6 +1633,22 @@
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
             "visitHistory": 6101720
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 89,
+            "houseId": "14830711",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
+            "houseIntroduction": "",
+            "houseName": "ENG PR   Arsenal  vs  Chelsea  ",
+            "liveStatus": 1,
+            "matchId": "vrqwni49d5rt4qn",
+            "nickName": "BLV GIÀ LÀNG",
+            "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
+            "visitHistory": 3634374
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4477087",
@@ -1806,7 +1807,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4hvzwq0j6"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.227Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.191Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1827,7 +1828,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/82054853.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/82054853.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZTY1M2Y4MzAxZTItZGRhYw/NTA1MTQ5Y2RlOGMtMmQyYg.jpg",
-            "visitHistory": 2775946
+            "visitHistory": 2775974
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/basketball?profile=74rekh26eseunr0&showTrend=false&id=3866038",
@@ -1967,7 +1968,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
             "houseName": "   \t FRA D1 Metz vs Brest",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "vrqwni43ew6i4qn",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
@@ -2048,7 +2049,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/90865415.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90865415.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",
-            "visitHistory": 501567
+            "visitHistory": 501612
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347571",
@@ -2207,7 +2208,7 @@
           "status_id": 1,
           "venue_id": "9dn1m1gh4ydmoep"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.227Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.191Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2228,7 +2229,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 213780
+            "visitHistory": 213814
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4472423",
@@ -2387,7 +2388,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphpp0r8k0"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.142Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.108Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2567,7 +2568,7 @@
           "status_id": 1,
           "venue_id": "8y39mp1h5jvmojx"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.771Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.775Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2588,7 +2589,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/90865415.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90865415.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",
-            "visitHistory": 501567
+            "visitHistory": 501612
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4462107",
@@ -2663,7 +2664,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/79665343.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/79665343.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/N2VhNzAxMzY0ZDUtMTE1NQ/NDY0ZWExN2NiMzQtZTRhMw.jpg",
-            "visitHistory": 1104444
+            "visitHistory": 1104490
           },
           {
             "anchorTitle": "",
@@ -2679,18 +2680,18 @@
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 213780
+            "visitHistory": 213814
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343262",
         "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343262",
         "auto_unpin_minutes": 115,
         "awayScore": [
+          1,
           0,
           0,
-          0,
-          0,
-          4,
+          2,
+          6,
           0,
           0
         ],
@@ -2715,8 +2716,8 @@
           2,
           2,
           0,
-          0,
-          4,
+          2,
+          5,
           0,
           0
         ],
@@ -2738,11 +2739,11 @@
         "node_api_data": {
           "_id": "69a2363b07c7bc72a55a0113",
           "away_scores": [
+            1,
             0,
             0,
-            0,
-            0,
-            4,
+            2,
+            5,
             0,
             0
           ],
@@ -2763,15 +2764,15 @@
             "humidity": "84%",
             "pressure": "762mmHg",
             "temperature": "13°C",
-            "weather": 1,
+            "weather": 2,
             "wind": "7.6m/s"
           },
           "home_scores": [
             2,
             2,
             0,
-            0,
-            3,
+            2,
+            5,
             0,
             0
           ],
@@ -2787,11 +2788,11 @@
           "raw": {
             "away_position": "16",
             "away_scores": [
+              1,
               0,
               0,
-              0,
-              0,
-              4,
+              2,
+              5,
               0,
               0
             ],
@@ -2805,7 +2806,7 @@
               "humidity": "84%",
               "pressure": "762mmHg",
               "temperature": "13°C",
-              "weather": 1,
+              "weather": 2,
               "wind": "7.6m/s"
             },
             "home_position": "10",
@@ -2813,8 +2814,8 @@
               2,
               2,
               0,
-              0,
-              3,
+              2,
+              5,
               0,
               0
             ],
@@ -2831,7 +2832,7 @@
             },
             "season_id": "l965mkyhjpxr1ge",
             "status_id": 4,
-            "updated_at": 1772377838,
+            "updated_at": 1772379038,
             "venue_id": "yl5ergphoxxr8k0"
           },
           "referee_id": "v2y8m4zhjlzql07",
@@ -2839,33 +2840,17 @@
           "status_id": 4,
           "venue_id": "yl5ergphoxxr8k0"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.150Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.116Z",
         "pin_hot_anchor": "79665343",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https://live1.trendgallary.com/live/12483234_a9febfe7759601652956e69b02f818b7_autoChange.m3u8?auth_key=1772392762-0-0-fa41a4fea844a27a2784039c102f0b4d",
-        "video_url": "https://live1.trendgallary.com/live/12483234_a9febfe7759601652956e69b02f818b7_autoChange.m3u8?auth_key=1772392762-0-0-fa41a4fea844a27a2784039c102f0b4d",
+        "videoUrl": "https://live1.trendgallary.com/live/12483234_a9febfe7759601652956e69b02f818b7_autoChange.m3u8?auth_key=1772394063-0-0-7d8d66ec2940f6bf16cec775096dff10",
+        "video_url": "https://live1.trendgallary.com/live/12483234_a9febfe7759601652956e69b02f818b7_autoChange.m3u8?auth_key=1772394063-0-0-7d8d66ec2940f6bf16cec775096dff10",
         "zalo_enabled": true,
         "zalo_phone": "0362.881.956"
       },
       "gangwon-vs-machida-luc-1700-ngay-03-03-2026-jr7owipp303hgq0": {
         "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 121,
-            "houseId": "97312754",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
-            "houseIntroduction": "",
-            "houseName": "ENG PR Manchester Utd  vs  Crystal Palace ",
-            "liveStatus": 2,
-            "matchId": "jr7owipp303hgq0",
-            "nickName": "BLV ÔLONG",
-            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2229854
-          },
           {
             "anchorTitle": "",
             "anchorTypeName": "足球",
@@ -2880,7 +2865,23 @@
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4102235
+            "visitHistory": 4102306
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 121,
+            "houseId": "97312754",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
+            "houseIntroduction": "",
+            "houseName": "ENG PR Manchester Utd  vs  Crystal Palace ",
+            "liveStatus": 2,
+            "matchId": "jr7owipp303hgq0",
+            "nickName": "BLV ÔLONG",
+            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
+            "visitHistory": 2229869
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4499651",
@@ -3030,7 +3031,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/79665343.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/79665343.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/N2VhNzAxMzY0ZDUtMTE1NQ/NDY0ZWExN2NiMzQtZTRhMw.jpg",
-            "visitHistory": 1104444
+            "visitHistory": 1104490
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4368997",
@@ -3105,7 +3106,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9505569
+            "visitHistory": 9505622
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358952",
@@ -3264,7 +3265,7 @@
           "status_id": 1,
           "venue_id": "v2y8m4zhz29ql07"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.225Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.189Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3285,7 +3286,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1076390
+            "visitHistory": 1076430
           }
         ],
         "animation_url": null,
@@ -3514,7 +3515,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdehnk5r510"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.859Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.865Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3694,7 +3695,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.958Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.953Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3865,7 +3866,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2217103
+            "visitHistory": 2217151
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465100",
@@ -4024,7 +4025,7 @@
           "status_id": 1,
           "venue_id": "kn54qllh3v8qvy9"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.779Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.782Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4204,7 +4205,7 @@
           "status_id": 1,
           "venue_id": "9k82rekh9yvrepz"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.856Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.862Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4225,7 +4226,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1076390
+            "visitHistory": 1076430
           }
         ],
         "animation_url": null,
@@ -4359,22 +4360,6 @@
           {
             "anchorTitle": "",
             "anchorTypeName": "足球",
-            "fansCount": 121,
-            "houseId": "97312754",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
-            "houseIntroduction": "",
-            "houseName": "ENG PR Manchester Utd  vs  Crystal Palace ",
-            "liveStatus": 2,
-            "matchId": "zrkn6i4ln31bwql",
-            "nickName": "BLV ÔLONG",
-            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2229854
-          },
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
             "fansCount": 162,
             "houseId": "24561735",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
@@ -4386,7 +4371,23 @@
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4102235
+            "visitHistory": 4102306
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 121,
+            "houseId": "97312754",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
+            "houseIntroduction": "",
+            "houseName": "ENG PR Manchester Utd  vs  Crystal Palace ",
+            "liveStatus": 2,
+            "matchId": "zrkn6i4ln31bwql",
+            "nickName": "BLV ÔLONG",
+            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
+            "visitHistory": 2229869
           },
           {
             "anchorTitle": "",
@@ -4402,7 +4403,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9505569
+            "visitHistory": 9505622
           },
           {
             "anchorTitle": "",
@@ -4418,7 +4419,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/90865415.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90865415.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",
-            "visitHistory": 501567
+            "visitHistory": 501612
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343270",
@@ -4451,11 +4452,11 @@
         "competitionName": "Giải bóng đá Ngoại hạng Anh",
         "custom_key": "cb734e5c241b8f43c4c518b6730e79b0",
         "homeScore": [
-          1,
+          2,
           0,
           0,
           1,
-          5,
+          6,
           0,
           0
         ],
@@ -4479,7 +4480,7 @@
           "away_scores": [
             1,
             1,
-            0,
+            1,
             2,
             1,
             0,
@@ -4499,18 +4500,18 @@
           "competition_id": "jednm9whz0ryox8",
           "custom_key": "cb734e5c241b8f43c4c518b6730e79b0",
           "environment": {
-            "humidity": "78%",
+            "humidity": "83%",
             "pressure": "757mmHg",
-            "temperature": "12°C",
+            "temperature": "13°C",
             "weather": 1,
             "wind": "5.6m/s"
           },
           "home_scores": [
-            0,
+            2,
             0,
             0,
             1,
-            4,
+            5,
             0,
             0
           ],
@@ -4528,7 +4529,7 @@
             "away_scores": [
               1,
               1,
-              0,
+              1,
               2,
               1,
               0,
@@ -4541,19 +4542,19 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "78%",
+              "humidity": "83%",
               "pressure": "757mmHg",
-              "temperature": "12°C",
+              "temperature": "13°C",
               "weather": 1,
               "wind": "5.6m/s"
             },
             "home_position": "4",
             "home_scores": [
-              0,
+              2,
               0,
               0,
               1,
-              4,
+              5,
               0,
               0
             ],
@@ -4570,7 +4571,7 @@
             },
             "season_id": "l965mkyhjpxr1ge",
             "status_id": 4,
-            "updated_at": 1772377778,
+            "updated_at": 1772379038,
             "venue_id": "p3glrw7hwexqdyj"
           },
           "referee_id": "8y39mp1h5z4mojx",
@@ -4578,7 +4579,7 @@
           "status_id": 4,
           "venue_id": "p3glrw7hwexqdyj"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.144Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.110Z",
         "pin_hot_anchor": "97312754",
         "set_home_anchors": [
           "97312754"
@@ -4587,7 +4588,7 @@
         "sport_id": 1,
         "video_url": null,
         "zalo_enabled": true,
-        "zalo_phone": "0333.701.163"
+        "zalo_phone": "0583 985 909"
       },
       "metz-vs-stade-brestois-29-luc-2315-ngay-01-03-2026-m2q15izepwgce76": {
         "anchorAppointmentVoList": [
@@ -4599,7 +4600,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
             "houseName": "   \t FRA D1 Metz vs Brest",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "m2q15izepwgce76",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
@@ -4764,7 +4765,7 @@
           "status_id": 1,
           "venue_id": "9dn1m1ghennmoep"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.780Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.783Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4785,7 +4786,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/82054853.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/82054853.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZTY1M2Y4MzAxZTItZGRhYw/NTA1MTQ5Y2RlOGMtMmQyYg.jpg",
-            "visitHistory": 2775946
+            "visitHistory": 2775974
           }
         ],
         "animation_url": null,
@@ -5014,7 +5015,7 @@
           "status_id": 1,
           "venue_id": "z318q66h0v0qo9j"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.858Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.864Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5035,7 +5036,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 213780
+            "visitHistory": 213814
           },
           {
             "anchorTitle": "",
@@ -5051,7 +5052,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229020
+            "visitHistory": 2229034
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460022",
@@ -5210,7 +5211,7 @@
           "status_id": 1,
           "venue_id": "kn54qllhk38qvy9"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.143Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.109Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5231,7 +5232,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1551974
+            "visitHistory": 1552018
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347893",
@@ -5241,8 +5242,8 @@
           0,
           0,
           0,
-          1,
-          3,
+          2,
+          4,
           0,
           0
         ],
@@ -5267,8 +5268,8 @@
           1,
           1,
           0,
-          3,
-          6,
+          4,
+          7,
           0,
           0
         ],
@@ -5294,7 +5295,7 @@
             0,
             0,
             1,
-            2,
+            4,
             0,
             0
           ],
@@ -5312,18 +5313,18 @@
           "competition_id": "yl5ergphnzr8k0o",
           "custom_key": "6e1896d92e4fef642cebb4a15b3a9159",
           "environment": {
-            "humidity": "61%",
+            "humidity": "58%",
             "pressure": "768mmHg",
-            "temperature": "13°C",
+            "temperature": "14°C",
             "weather": 1,
-            "wind": "6.1m/s"
+            "wind": "5.8m/s"
           },
           "home_scores": [
             1,
             1,
             0,
-            3,
-            5,
+            4,
+            7,
             0,
             0
           ],
@@ -5343,7 +5344,7 @@
               0,
               0,
               1,
-              2,
+              4,
               0,
               0
             ],
@@ -5354,19 +5355,19 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "61%",
+              "humidity": "58%",
               "pressure": "768mmHg",
-              "temperature": "13°C",
+              "temperature": "14°C",
               "weather": 1,
-              "wind": "6.1m/s"
+              "wind": "5.8m/s"
             },
             "home_position": "15",
             "home_scores": [
               1,
               1,
               0,
-              3,
-              5,
+              4,
+              7,
               0,
               0
             ],
@@ -5383,7 +5384,7 @@
             },
             "season_id": "9dn1m1gh645moep",
             "status_id": 4,
-            "updated_at": 1772377750,
+            "updated_at": 1772379038,
             "venue_id": "l965mkyh0y7r1ge"
           },
           "referee_id": "yl5ergph3nnr8k0",
@@ -5391,7 +5392,7 @@
           "status_id": 4,
           "venue_id": "l965mkyh0y7r1ge"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.864Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.869Z",
         "pin_hot_anchor": "99121525",
         "sportId": 1,
         "sport_id": 1,
@@ -5574,7 +5575,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4h93pq86p"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.690Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.699Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5595,7 +5596,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/68848594.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/68848594.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YmVkOWQzNzBlMzctZjNmYQ/NTQ3NDg5M2RjZWYtYjc2OQ.jpg",
-            "visitHistory": 1399319
+            "visitHistory": 1399323
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4379468",
@@ -5670,7 +5671,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/79665343.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/79665343.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/N2VhNzAxMzY0ZDUtMTE1NQ/NDY0ZWExN2NiMzQtZTRhMw.jpg",
-            "visitHistory": 1104444
+            "visitHistory": 1104490
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4454838",
@@ -5745,7 +5746,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9505569
+            "visitHistory": 9505622
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339844",
@@ -5820,7 +5821,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 213780
+            "visitHistory": 213814
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4379519",
@@ -5979,7 +5980,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09h1zorz84"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.224Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.187Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6016,7 +6017,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229020
+            "visitHistory": 2229034
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4474623",
@@ -6175,7 +6176,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4hxpkq86p"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.863Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.868Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6196,7 +6197,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/79665343.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/79665343.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/N2VhNzAxMzY0ZDUtMTE1NQ/NDY0ZWExN2NiMzQtZTRhMw.jpg",
-            "visitHistory": 1104444
+            "visitHistory": 1104490
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358944",
@@ -6355,29 +6356,13 @@
           "status_id": 1,
           "venue_id": "56ypq3nhjzxmd7o"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.953Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.949Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
       "real-madrid-cf-vs-getafe-cf-luc-0300-ngay-03-03-2026-jr7owipjno6igq0": {
         "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 121,
-            "houseId": "97312754",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
-            "houseIntroduction": "",
-            "houseName": "ENG PR Manchester Utd  vs  Crystal Palace ",
-            "liveStatus": 2,
-            "matchId": "jr7owipjno6igq0",
-            "nickName": "BLV ÔLONG",
-            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2229854
-          },
           {
             "anchorTitle": "",
             "anchorTypeName": "足球",
@@ -6392,7 +6377,23 @@
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4102235
+            "visitHistory": 4102306
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 121,
+            "houseId": "97312754",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
+            "houseIntroduction": "",
+            "houseName": "ENG PR Manchester Utd  vs  Crystal Palace ",
+            "liveStatus": 2,
+            "matchId": "jr7owipjno6igq0",
+            "nickName": "BLV ÔLONG",
+            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
+            "visitHistory": 2229869
           },
           {
             "anchorTitle": "",
@@ -6704,7 +6705,7 @@
           "status_id": 1,
           "venue_id": "ednm9whk90pryox"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.958Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.953Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6800,7 +6801,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/79665343.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/79665343.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/N2VhNzAxMzY0ZDUtMTE1NQ/NDY0ZWExN2NiMzQtZTRhMw.jpg",
-            "visitHistory": 1104444
+            "visitHistory": 1104490
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4362149",
@@ -6959,7 +6960,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7hl5zqdyj"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.956Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.951Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6980,7 +6981,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/82054853.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/82054853.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZTY1M2Y4MzAxZTItZGRhYw/NTA1MTQ5Y2RlOGMtMmQyYg.jpg",
-            "visitHistory": 2775946
+            "visitHistory": 2775974
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4420434",
@@ -7055,7 +7056,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1551974
+            "visitHistory": 1552018
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339848",
@@ -7214,7 +7215,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4he44q86p"
         },
-        "node_api_updated_at": "2026-03-01T15:19:48.225Z",
+        "node_api_updated_at": "2026-03-01T15:40:48.188Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7310,7 +7311,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2217103
+            "visitHistory": 2217151
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390945",
@@ -7610,7 +7611,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/68848594.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/68848594.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YmVkOWQzNzBlMzctZjNmYQ/NTQ3NDg5M2RjZWYtYjc2OQ.jpg",
-            "visitHistory": 1399319
+            "visitHistory": 1399323
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339846",
@@ -7620,8 +7621,8 @@
           0,
           0,
           0,
-          1,
-          4,
+          2,
+          8,
           0,
           0
         ],
@@ -7643,10 +7644,10 @@
         "competitionName": "Giải bóng đá Serie A Italia",
         "custom_key": "140a519aa9083afccbb465f8cd57db99",
         "homeScore": [
+          2,
           1,
           1,
-          1,
-          1,
+          2,
           3,
           0,
           0
@@ -7672,8 +7673,8 @@
             0,
             0,
             0,
-            1,
-            3,
+            2,
+            7,
             0,
             0
           ],
@@ -7691,17 +7692,17 @@
           "competition_id": "4zp5rzghp5q82w1",
           "custom_key": "140a519aa9083afccbb465f8cd57db99",
           "environment": {
-            "humidity": "92%",
+            "humidity": "89%",
             "pressure": "770mmHg",
             "temperature": "12°C",
             "weather": 2,
             "wind": "3.2m/s"
           },
           "home_scores": [
+            2,
             1,
             1,
-            1,
-            1,
+            2,
             3,
             0,
             0
@@ -7721,8 +7722,8 @@
               0,
               0,
               0,
-              1,
-              3,
+              2,
+              7,
               0,
               0
             ],
@@ -7733,7 +7734,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "92%",
+              "humidity": "89%",
               "pressure": "770mmHg",
               "temperature": "12°C",
               "weather": 2,
@@ -7741,10 +7742,10 @@
             },
             "home_position": "9",
             "home_scores": [
+              2,
               1,
               1,
-              1,
-              1,
+              2,
               3,
               0,
               0
@@ -7762,7 +7763,7 @@
             },
             "season_id": "4zp5rzghn83q82w",
             "status_id": 4,
-            "updated_at": 1772377657,
+            "updated_at": 1772379038,
             "venue_id": "j1l4rjnh10jm7vx"
           },
           "referee_id": "z8yomo4hvj9q0j6",
@@ -7770,7 +7771,7 @@
           "status_id": 4,
           "venue_id": "j1l4rjnh10jm7vx"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.694Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.702Z",
         "pin_hot_anchor": "68848594",
         "sportId": 1,
         "sport_id": 1,
@@ -7794,7 +7795,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/82054853.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/82054853.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZTY1M2Y4MzAxZTItZGRhYw/NTA1MTQ5Y2RlOGMtMmQyYg.jpg",
-            "visitHistory": 2775937
+            "visitHistory": 2775974
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358954",
@@ -7805,7 +7806,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0
         ],
@@ -7831,7 +7832,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0
         ],
@@ -7845,10 +7846,10 @@
         },
         "house_id": "82054853",
         "matchId": "9gklzi139jyfm7x",
-        "matchStatus": 8,
+        "matchStatus": 2,
         "matchTime": 1772378100,
         "match_id": "9gklzi139jyfm7x",
-        "match_status": "finished",
+        "match_status": "live",
         "match_time": 1772378100,
         "node_api_data": {
           "_id": "69a2364207c7bc72a55a129f",
@@ -7875,10 +7876,10 @@
           "competition_id": "vl7oqdehlyr510j",
           "custom_key": "5c5c05b90c485f468980ce53e2174b60",
           "environment": {
-            "humidity": "65%",
-            "pressure": "769mmHg",
+            "humidity": "60%",
+            "pressure": "768mmHg",
             "temperature": "16°C",
-            "weather": 1,
+            "weather": 2,
             "wind": "3.2m/s"
           },
           "home_scores": [
@@ -7886,7 +7887,7 @@
             0,
             0,
             0,
-            0,
+            1,
             0,
             0
           ],
@@ -7917,10 +7918,10 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "65%",
-              "pressure": "769mmHg",
+              "humidity": "60%",
+              "pressure": "768mmHg",
               "temperature": "16°C",
-              "weather": 1,
+              "weather": 2,
               "wind": "3.2m/s"
             },
             "home_position": "17",
@@ -7929,7 +7930,7 @@
               0,
               0,
               0,
-              0,
+              1,
               0,
               0
             ],
@@ -7945,16 +7946,16 @@
               "stage_id": "dn1m1ghgdd5moep"
             },
             "season_id": "56ypq3nhxw7md7o",
-            "status_id": 1,
-            "updated_at": 1772377814,
+            "status_id": 2,
+            "updated_at": 1772379038,
             "venue_id": "9vjxm8gh4n3r6od"
           },
           "referee_id": "d23xmvkhol9qg8n",
           "season_id": "56ypq3nhxw7md7o",
-          "status_id": 1,
+          "status_id": 2,
           "venue_id": "9vjxm8gh4n3r6od"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.858Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.864Z",
         "pin_hot_anchor": "82054853",
         "sportId": 1,
         "sport_id": 1,
@@ -7987,7 +7988,7 @@
           0,
           0,
           0,
-          1,
+          2,
           0,
           0
         ],
@@ -8064,11 +8065,11 @@
             "wind": "3.2m/s"
           },
           "home_scores": [
-            2,
-            2,
-            0,
-            0,
             3,
+            3,
+            0,
+            0,
+            5,
             0,
             0
           ],
@@ -8107,11 +8108,11 @@
             },
             "home_position": "4",
             "home_scores": [
-              2,
-              2,
-              0,
-              0,
               3,
+              3,
+              0,
+              0,
+              5,
               0,
               0
             ],
@@ -8127,21 +8128,21 @@
               "stage_id": "y39mp1he8ddmojx"
             },
             "season_id": "e4wyrn4hg8gq86p",
-            "status_id": 2,
-            "updated_at": 1772377718,
+            "status_id": 3,
+            "updated_at": 1772378257,
             "venue_id": "p3glrw7hwvjqdyj"
           },
           "referee_id": "gy0or5jh412qwzv",
           "season_id": "e4wyrn4hg8gq86p",
-          "status_id": 2,
+          "status_id": 3,
           "venue_id": "p3glrw7hwvjqdyj"
         },
-        "node_api_updated_at": "2026-03-01T15:19:47.779Z",
+        "node_api_updated_at": "2026-03-01T15:40:47.782Z",
         "pin_hot_anchor": "08552895",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https://live.trendgallary.com/live/12535387_a92399fbe9a47f56c13cb9a8f846af5d_autoChange.m3u8?auth_key=1772392774-0-0-2b3268590328cf1170d26efafca5e6e4",
-        "video_url": "https://live.trendgallary.com/live/12535387_a92399fbe9a47f56c13cb9a8f846af5d_autoChange.m3u8?auth_key=1772392774-0-0-2b3268590328cf1170d26efafca5e6e4"
+        "videoUrl": "https://live.trendgallary.com/live/12535387_a92399fbe9a47f56c13cb9a8f846af5d_autoChange.m3u8?auth_key=1772394059-0-0-d8bb5e3fbb5db0bfe6599e28b86b1597",
+        "video_url": "https://live.trendgallary.com/live/12535387_a92399fbe9a47f56c13cb9a8f846af5d_autoChange.m3u8?auth_key=1772394059-0-0-d8bb5e3fbb5db0bfe6599e28b86b1597"
       },
       "zaglebie-lubin-vs-wisla-plock-luc-0100-ngay-03-03-2026-63kv9igjzz1cx7e": {
         "anchorAppointmentVoList": [
@@ -8159,7 +8160,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2229854
+            "visitHistory": 2229869
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4340758",
