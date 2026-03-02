@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T07:13:57.391554",
+  "last_updated": "2026-03-02T07:56:46.091933",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -95,7 +95,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/68848594.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/68848594.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YmVkOWQzNzBlMzctZjNmYQ/NTQ3NDg5M2RjZWYtYjc2OQ.jpg",
-            "visitHistory": 1399330
+            "visitHistory": 1399358
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4466153",
@@ -170,7 +170,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/68848594.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/68848594.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YmVkOWQzNzBlMzctZjNmYQ/NTQ3NDg5M2RjZWYtYjc2OQ.jpg",
-            "visitHistory": 1399330
+            "visitHistory": 1399358
           }
         ],
         "animation_url": null,
@@ -315,7 +315,262 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.192Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.159Z",
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
+      },
+      "atl-tucuman-vs-racing-club-luc-0715-ngay-04-03-2026-ndkz6i3j5w8hxq3": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 442,
+            "houseId": "33982309",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
+            "houseIntroduction": "",
+            "houseName": "KOR D2   Busan IPark  vs   Seongnam FC  ",
+            "liveStatus": 2,
+            "matchId": "ndkz6i3j5w8hxq3",
+            "nickName": "BLV REVIVE",
+            "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/33982309.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",
+            "visitHistory": 1392352
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465082",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465082",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "zjek33ir8ofdko2",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80",
+        "awayTeamName": "Racing Club",
+        "away_team": {
+          "id": "zjek33ir8ofdko2",
+          "logo": "https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80",
+          "name": "Racing Club"
+        },
+        "competition": {
+          "id": "0ndkz6iywtgq3z1",
+          "logo": "https://img.colatv88xd.cc/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png!w80",
+          "name": "Giải Bóng đá Vô địch Quốc gia Argentina"
+        },
+        "competitionId": "0ndkz6iywtgq3z1",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png!w80",
+        "competitionName": "Giải Bóng đá Vô địch Quốc gia Argentina",
+        "custom_key": "b11d0d1fda5e0243987873da74424a5e",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "69759i39jnank23",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/2d87cf3b426597f02435e2c72e8def93.png!w80",
+        "homeTeamName": "Atl. Tucuman",
+        "home_team": {
+          "id": "69759i39jnank23",
+          "logo": "https://img.colatv88xd.cc/football/team/2d87cf3b426597f02435e2c72e8def93.png!w80",
+          "name": "Atl. Tucuman"
+        },
+        "house_id": null,
+        "matchId": "ndkz6i3j5w8hxq3",
+        "matchStatus": 1,
+        "matchTime": 1772583300,
+        "match_id": "ndkz6i3j5w8hxq3",
+        "match_status": "scheduled",
+        "match_time": 1772583300,
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
+      },
+      "beroe-stara-zagora-vs-slavia-sofia-luc-2100-ngay-03-03-2026-o17pjio3dvxuy7j": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 54,
+            "houseId": "90865415",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg",
+            "houseIntroduction": "",
+            "houseName": "TUR Cup   Fethiyespor   vs    Fatih Karagumruk   ",
+            "liveStatus": 1,
+            "matchId": "o17pjio3dvxuy7j",
+            "nickName": "BLV 247",
+            "playStreamAddress": "https://live5.msrktz.app/live/90865415.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/90865415.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",
+            "visitHistory": 501950
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4420437",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4420437",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "5wv78xirwrhnkrj",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/e087c9b939975c0cb726253fc3c3e418.png!w80",
+        "awayTeamName": "Slavia Sofia",
+        "away_team": {
+          "id": "5wv78xirwrhnkrj",
+          "logo": "https://img.colatv88xd.cc/football/team/e087c9b939975c0cb726253fc3c3e418.png!w80",
+          "name": "Slavia Sofia"
+        },
+        "competition": {
+          "id": "w34kgmiolt1ko92",
+          "logo": "https://img.colatv88xd.cc/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png!w80",
+          "name": "Giải vô địch quốc gia Bulgaria"
+        },
+        "competitionId": "w34kgmiolt1ko92",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png!w80",
+        "competitionName": "Giải vô địch quốc gia Bulgaria",
+        "custom_key": "60633ef4e81491f7ce737c45a83b1b93",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "n527r3i294f87ev",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/197710e96433ca507120d5fc3ebfbc58.png!w80",
+        "homeTeamName": "Beroe Stara Zagora",
+        "home_team": {
+          "id": "n527r3i294f87ev",
+          "logo": "https://img.colatv88xd.cc/football/team/197710e96433ca507120d5fc3ebfbc58.png!w80",
+          "name": "Beroe Stara Zagora"
+        },
+        "house_id": null,
+        "matchId": "o17pjio3dvxuy7j",
+        "matchStatus": 1,
+        "matchTime": 1772546400,
+        "match_id": "o17pjio3dvxuy7j",
+        "match_status": "scheduled",
+        "match_time": 1772546400,
+        "node_api_data": {
+          "_id": "69a4d5ce07c7bc72a59357c7",
+          "away_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "away_team": {
+            "id": "9vjxm8gh6p6r6od",
+            "logo": "https://img.thesports.com/football/team/e087c9b939975c0cb726253fc3c3e418.png",
+            "name": "Slavia Sofia"
+          },
+          "away_team_id": "9vjxm8gh6p6r6od",
+          "competition": {
+            "id": "kn54qllhn0qvy9d",
+            "logo": "https://img.thesports.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png",
+            "name": "Bulgarian First League"
+          },
+          "competition_id": "kn54qllhn0qvy9d",
+          "custom_key": "60633ef4e81491f7ce737c45a83b1b93",
+          "environment": {
+            "humidity": "58%",
+            "pressure": "770mmHg",
+            "temperature": "13°C",
+            "weather": 7,
+            "wind": "2.6m/s"
+          },
+          "home_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "home_team": {
+            "id": "p3glrw7h21nqdyj",
+            "logo": "https://img.thesports.com/football/team/197710e96433ca507120d5fc3ebfbc58.png",
+            "name": "Beroe Stara Zagora"
+          },
+          "home_team_id": "p3glrw7h21nqdyj",
+          "match_date_vn": "20260303",
+          "match_id": "6ypq3nhv4ogjmd7",
+          "match_time": 1772546400,
+          "raw": {
+            "away_position": "8",
+            "away_scores": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "away_team_id": "9vjxm8gh6p6r6od",
+            "competition_id": "kn54qllhn0qvy9d",
+            "coverage": {
+              "lineup": 0,
+              "mlive": 1
+            },
+            "environment": {
+              "humidity": "58%",
+              "pressure": "770mmHg",
+              "temperature": "13°C",
+              "weather": 7,
+              "wind": "2.6m/s"
+            },
+            "home_position": "15",
+            "home_scores": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "home_team_id": "p3glrw7h21nqdyj",
+            "id": "6ypq3nhv4ogjmd7",
+            "match_time": 1772546400,
+            "neutral": 0,
+            "note": "",
+            "referee_id": "",
+            "round": {
+              "group_num": 0,
+              "round_num": 24,
+              "stage_id": "l7oqdeh9z95r510"
+            },
+            "season_id": "9vjxm8ghyjkr6od",
+            "status_id": 1,
+            "updated_at": 1772434814,
+            "venue_id": "56ypq3nhz72md7o"
+          },
+          "referee_id": "",
+          "season_id": "9vjxm8ghyjkr6od",
+          "status_id": 1,
+          "venue_id": "56ypq3nhz72md7o"
+        },
+        "node_api_updated_at": "2026-03-02T07:55:48.155Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -336,7 +591,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616576
+            "visitHistory": 2616592
           },
           {
             "anchorTitle": "",
@@ -436,7 +691,7 @@
             "pressure": "763mmHg",
             "temperature": "10°C",
             "weather": 7,
-            "wind": "3.2m/s"
+            "wind": "2.9m/s"
           },
           "home_scores": [
             0,
@@ -478,7 +733,7 @@
               "pressure": "763mmHg",
               "temperature": "10°C",
               "weather": 7,
-              "wind": "3.2m/s"
+              "wind": "2.9m/s"
             },
             "home_position": "11",
             "home_scores": [
@@ -503,7 +758,7 @@
             },
             "season_id": "56ypq3nhx51md7o",
             "status_id": 1,
-            "updated_at": 1772434215,
+            "updated_at": 1772436015,
             "venue_id": "jednm9wh9zjryox"
           },
           "referee_id": "gy0or5jh04nqwzv",
@@ -511,7 +766,7 @@
           "status_id": 1,
           "venue_id": "jednm9wh9zjryox"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.356Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.328Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -532,7 +787,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/33982309.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",
-            "visitHistory": 1392341
+            "visitHistory": 1392352
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4481001",
@@ -542,7 +797,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0
         ],
@@ -568,7 +823,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0
         ],
@@ -582,10 +837,10 @@
         },
         "house_id": null,
         "matchId": "o07dni5w2wgtmkn",
-        "matchStatus": 1,
+        "matchStatus": 2,
         "matchTime": 1772436600,
         "match_id": "o07dni5w2wgtmkn",
-        "match_status": "scheduled",
+        "match_status": "live",
         "match_time": 1772436600,
         "node_api_data": {
           "_id": "69a387a807c7bc72a530e050",
@@ -612,18 +867,18 @@
           "competition_id": "kn54qllh25dqvy9",
           "custom_key": "b74c56c39a2e67a0d37f93fb8878d42b",
           "environment": {
-            "humidity": "84%",
+            "humidity": "81%",
             "pressure": "762mmHg",
-            "temperature": "8°C",
-            "weather": 9,
-            "wind": "9.0m/s"
+            "temperature": "9°C",
+            "weather": 7,
+            "wind": "7.1m/s"
           },
           "home_scores": [
             0,
             0,
             0,
             0,
-            0,
+            1,
             0,
             0
           ],
@@ -654,11 +909,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "84%",
+              "humidity": "81%",
               "pressure": "762mmHg",
-              "temperature": "8°C",
-              "weather": 9,
-              "wind": "9.0m/s"
+              "temperature": "9°C",
+              "weather": 7,
+              "wind": "7.1m/s"
             },
             "home_position": "10",
             "home_scores": [
@@ -666,7 +921,7 @@
               0,
               0,
               0,
-              0,
+              1,
               0,
               0
             ],
@@ -682,16 +937,108 @@
               "stage_id": "l7oqdeh956nr510"
             },
             "season_id": "l5ergpho0epr8k0",
-            "status_id": 1,
-            "updated_at": 1772435415,
+            "status_id": 2,
+            "updated_at": 1772437209,
             "venue_id": "vl7oqdeh01wr510"
           },
           "referee_id": "",
           "season_id": "l5ergpho0epr8k0",
-          "status_id": 1,
+          "status_id": 2,
           "venue_id": "vl7oqdeh01wr510"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.361Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.334Z",
+        "sportId": 1,
+        "sport_id": 1,
+        "videoUrl": "https://live.trendgallary.com/live/13499575_874076b65555d9fb6a700ea8507f8fbb_autoChange.m3u8?auth_key=1772452586-0-0-305fe2a9eac1be9e699935865e0bcdaf",
+        "video_url": "https://live.trendgallary.com/live/13499575_874076b65555d9fb6a700ea8507f8fbb_autoChange.m3u8?auth_key=1772452586-0-0-305fe2a9eac1be9e699935865e0bcdaf"
+      },
+      "calcio-como-vs-inter-milan-luc-0300-ngay-04-03-2026-63kv9igg398hx7e": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 48,
+            "houseId": "90725470",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
+            "houseIntroduction": "",
+            "houseName": "ASIAN WCup\tNorth Korea W  vs Uzbekistan W",
+            "liveStatus": 1,
+            "matchId": "63kv9igg398hx7e",
+            "nickName": "BLV SPRITE",
+            "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
+            "visitHistory": 2217196
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 82,
+            "houseId": "14707124",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg",
+            "houseIntroduction": "",
+            "houseName": "ROM D1\tUnirea Slobozia  vs  FC Rapid 1923",
+            "liveStatus": 1,
+            "matchId": "63kv9igg398hx7e",
+            "nickName": "BLV STING",
+            "playStreamAddress": "https://live5.msrktz.app/live/14707124.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/14707124.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/Mjk2OGQ3OGU0ZDktYTE1OQ/OTcxNDQ0MjdhMmItNzllNQ.jpg",
+            "visitHistory": 1997257
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4496933",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4496933",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "el6kegi58wtg75d",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80",
+        "awayTeamName": "Inter Milan",
+        "away_team": {
+          "id": "el6kegi58wtg75d",
+          "logo": "https://img.colatv88xd.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80",
+          "name": "Inter Milan"
+        },
+        "competition": {
+          "id": "2j374oilmh4qo6d",
+          "logo": "https://img.colatv88xd.cc/football/competition/109efb8b27e3c1420c262faea1f284f4.png!w80",
+          "name": "Cúp Ý"
+        },
+        "competitionId": "2j374oilmh4qo6d",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/109efb8b27e3c1420c262faea1f284f4.png!w80",
+        "competitionName": "Cúp Ý",
+        "custom_key": "10806ea27cdef06cfb0ad638814ecc4a",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "2jr7owie21f3q0e",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w80",
+        "homeTeamName": "Calcio Como",
+        "home_team": {
+          "id": "2jr7owie21f3q0e",
+          "logo": "https://img.colatv88xd.cc/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w80",
+          "name": "Calcio Como"
+        },
+        "house_id": null,
+        "matchId": "63kv9igg398hx7e",
+        "matchStatus": 1,
+        "matchTime": 1772568000,
+        "match_id": "63kv9igg398hx7e",
+        "match_status": "scheduled",
+        "match_time": 1772568000,
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1037,7 +1384,7 @@
           "status_id": 1,
           "venue_id": "9k82rekhvkerepz"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.186Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.155Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1138,7 +1485,7 @@
           "competition_id": "p3glrw7hevqdyjv",
           "custom_key": "14be7c6510e32059d45860232902f4bb",
           "environment": {
-            "humidity": "54%",
+            "humidity": "55%",
             "pressure": "756mmHg",
             "temperature": "27°C",
             "weather": 5,
@@ -1180,7 +1527,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "54%",
+              "humidity": "55%",
               "pressure": "756mmHg",
               "temperature": "27°C",
               "weather": 5,
@@ -1209,7 +1556,7 @@
             },
             "season_id": "vjxm8gh4vvwr6od",
             "status_id": 1,
-            "updated_at": 1772423415,
+            "updated_at": 1772437215,
             "venue_id": "yl5ergph358r8k0"
           },
           "referee_id": "9k82rekh8v7repz",
@@ -1217,7 +1564,7 @@
           "status_id": 1,
           "venue_id": "yl5ergph358r8k0"
         },
-        "node_api_updated_at": "2026-03-02T07:13:47.994Z",
+        "node_api_updated_at": "2026-03-02T07:55:47.981Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1384,7 +1731,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.432Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.419Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1399,13 +1746,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjA4Yzc0MjYyMzYtMDg3ZA/ZjFmYTExYjgzY2QtNjBhZg.png",
             "houseIntroduction": "",
             "houseName": "ASIAN CUP\tlndonesia W  vs  Vietnam W",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ndkz6i33nw3hxq3",
             "nickName": "BLV PEPSI",
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6102333
+            "visitHistory": 6102387
           },
           {
             "anchorTitle": "",
@@ -1496,7 +1843,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9506119
+            "visitHistory": 9506125
           },
           {
             "anchorTitle": "",
@@ -1567,6 +1914,97 @@
         "match_id": "ezk96i3dyggc1kn",
         "match_status": "scheduled",
         "match_time": 1772566200,
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
+      },
+      "clb-macarthur-vs-clb-central-coast-luc-1500-ngay-04-03-2026-j374oi0nzz3ugqo": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 121,
+            "houseId": "97312754",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
+            "houseIntroduction": "",
+            "houseName": "POL D1\tZaglebie Lubin  vs  Wisla Plock",
+            "liveStatus": 1,
+            "matchId": "j374oi0nzz3ugqo",
+            "nickName": "BLV ÔLONG",
+            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
+            "visitHistory": 2230927
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 89,
+            "houseId": "14830711",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
+            "houseIntroduction": "",
+            "houseName": "SER SL\t FK IMT Belgrad  vs  Radnik Surdulica",
+            "liveStatus": 1,
+            "matchId": "j374oi0nzz3ugqo",
+            "nickName": "BLV GIÀ LÀNG",
+            "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
+            "visitHistory": 3634735
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4426690",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4426690",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "jr7owi6dd2h3q0e",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/22bb94f0215d3b8e0aea534b80d60aba.png!w80",
+        "awayTeamName": "CLB Central Coast",
+        "away_team": {
+          "id": "jr7owi6dd2h3q0e",
+          "logo": "https://img.colatv88xd.cc/football/team/22bb94f0215d3b8e0aea534b80d60aba.png!w80",
+          "name": "CLB Central Coast"
+        },
+        "competition": {
+          "id": "2j374oi184f4qo6",
+          "logo": "https://img.colatv88xd.cc/football/competition/76722a157176d354a952c671bb46cc7e.png!w80",
+          "name": "Giải vô địch quốc gia Úc"
+        },
+        "competitionId": "2j374oi184f4qo6",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/76722a157176d354a952c671bb46cc7e.png!w80",
+        "competitionName": "Giải vô địch quốc gia Úc",
+        "custom_key": "93484fbdcf3ee14fa877f1e40d7b585c",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "ezk96iyeldtwkn5",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/d7c8728e57f2aec43b46422d3d37ab9e.png!w80",
+        "homeTeamName": "CLB Macarthur",
+        "home_team": {
+          "id": "ezk96iyeldtwkn5",
+          "logo": "https://img.colatv88xd.cc/football/team/d7c8728e57f2aec43b46422d3d37ab9e.png!w80",
+          "name": "CLB Macarthur"
+        },
+        "house_id": null,
+        "matchId": "j374oi0nzz3ugqo",
+        "matchStatus": 1,
+        "matchTime": 1772611200,
+        "match_id": "j374oi0nzz3ugqo",
+        "match_status": "scheduled",
+        "match_time": 1772611200,
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1746,7 +2184,7 @@
           "status_id": 1,
           "venue_id": "2y8m4zh30poql07"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.092Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.058Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1783,7 +2221,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/33982309.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",
-            "visitHistory": 1392341
+            "visitHistory": 1392352
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4499654",
@@ -1930,7 +2368,7 @@
           "status_id": 1,
           "venue_id": "kn54qllhe0nqvy9"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.092Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.058Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2042,10 +2480,11 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616576
+            "visitHistory": 2616592
           }
         ],
-        "animation_url": null,
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4506881",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4506881",
         "awayScore": [
           0,
           0,
@@ -2096,6 +2535,81 @@
         "match_id": "o07dni5nyvphmkn",
         "match_status": "scheduled",
         "match_time": 1772634600,
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
+      },
+      "cobresal-vs-a-italiano-luc-0730-ngay-04-03-2026-ezk96i3pnr4b1kn": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 227,
+            "houseId": "71426314",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
+            "houseIntroduction": "",
+            "houseName": "ARG D1\tEstudiantes L.P.  vs  Velez Sarsfield",
+            "liveStatus": 1,
+            "matchId": "ezk96i3pnr4b1kn",
+            "nickName": "BLV FANTA",
+            "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
+            "visitHistory": 2229302
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4466159",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4466159",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "mo07dnir03t9knx",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/7a8bb950293508aeb3199de3c45dd418.png!w80",
+        "awayTeamName": "A. Italiano",
+        "away_team": {
+          "id": "mo07dnir03t9knx",
+          "logo": "https://img.colatv88xd.cc/football/team/7a8bb950293508aeb3199de3c45dd418.png!w80",
+          "name": "A. Italiano"
+        },
+        "competition": {
+          "id": "2jr7owiwys1q0em",
+          "logo": "https://img.colatv88xd.cc/football/competition/2341037b4e4eff9683c5c15fd188127e.png!w80",
+          "name": "Siêu Cúp Nam Mỹ"
+        },
+        "competitionId": "2jr7owiwys1q0em",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/2341037b4e4eff9683c5c15fd188127e.png!w80",
+        "competitionName": "Siêu Cúp Nam Mỹ",
+        "custom_key": "9aafa8f23aad73a01c70da4c92e0e327",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "8vrqwnid8vfdqn2",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/a5e650365ee5c40efb649bf12015eb6d.png!w80",
+        "homeTeamName": "Cobresal",
+        "home_team": {
+          "id": "8vrqwnid8vfdqn2",
+          "logo": "https://img.colatv88xd.cc/football/team/a5e650365ee5c40efb649bf12015eb6d.png!w80",
+          "name": "Cobresal"
+        },
+        "house_id": null,
+        "matchId": "ezk96i3pnr4b1kn",
+        "matchStatus": 1,
+        "matchTime": 1772584200,
+        "match_id": "ezk96i3pnr4b1kn",
+        "match_status": "scheduled",
+        "match_time": 1772584200,
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2275,7 +2789,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7hldpqdyj"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.496Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.489Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2296,7 +2810,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/33982309.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",
-            "visitHistory": 1392341
+            "visitHistory": 1392352
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4454766",
@@ -2365,13 +2879,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjA4Yzc0MjYyMzYtMDg3ZA/ZjFmYTExYjgzY2QtNjBhZg.png",
             "houseIntroduction": "",
             "houseName": "ASIAN CUP\tlndonesia W  vs  Vietnam W",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ndqmliwzp85arkv",
             "nickName": "BLV PEPSI",
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6102333
+            "visitHistory": 6102387
           },
           {
             "anchorTitle": "",
@@ -2621,10 +3135,11 @@
           "status_id": 1,
           "venue_id": "yl5ergphpp0r8k0"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.426Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.413Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null
+        "videoUrl": "https",
+        "video_url": "https"
       },
       "fc-barcelona-vs-atletico-madrid-luc-0300-ngay-04-03-2026-ezk96i330g6h1kn": {
         "anchorAppointmentVoList": [
@@ -2879,7 +3394,82 @@
           "status_id": 1,
           "venue_id": "gpxwrxlhjknryk0"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.495Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.487Z",
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
+      },
+      "gamba-osaka-vs-ratchaburi-luc-1700-ngay-04-03-2026-j374oi0002ntgqo": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 82,
+            "houseId": "14707124",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg",
+            "houseIntroduction": "",
+            "houseName": "ROM D1\tUnirea Slobozia  vs  FC Rapid 1923",
+            "liveStatus": 1,
+            "matchId": "j374oi0002ntgqo",
+            "nickName": "BLV STING",
+            "playStreamAddress": "https://live5.msrktz.app/live/14707124.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/14707124.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/Mjk2OGQ3OGU0ZDktYTE1OQ/OTcxNDQ0MjdhMmItNzllNQ.jpg",
+            "visitHistory": 1997257
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4500824",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4500824",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "edq09ipp8vb4qxg",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/ca2b8d70931647840c78209be51763a3.png!w80",
+        "awayTeamName": "Ratchaburi",
+        "away_team": {
+          "id": "edq09ipp8vb4qxg",
+          "logo": "https://img.colatv88xd.cc/football/team/ca2b8d70931647840c78209be51763a3.png!w80",
+          "name": "Ratchaburi"
+        },
+        "competition": {
+          "id": "2jr7owi3w8s1q0e",
+          "logo": "https://img.colatv88xd.cc/football/competition/9a22d840df32761c127c5cd106203ccf.png!w80",
+          "name": "AFC Giải vô địch Champions 2"
+        },
+        "competitionId": "2jr7owi3w8s1q0e",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/9a22d840df32761c127c5cd106203ccf.png!w80",
+        "competitionName": "AFC Giải vô địch Champions 2",
+        "custom_key": "1f0d64f8ca50828b5a36a0eb225387ba",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "0ndkz6iyndfeq3z",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",
+        "homeTeamName": "Gamba Osaka",
+        "home_team": {
+          "id": "0ndkz6iyndfeq3z",
+          "logo": "https://img.colatv88xd.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",
+          "name": "Gamba Osaka"
+        },
+        "house_id": null,
+        "matchId": "j374oi0002ntgqo",
+        "matchStatus": 1,
+        "matchTime": 1772618400,
+        "match_id": "j374oi0002ntgqo",
+        "match_status": "scheduled",
+        "match_time": 1772618400,
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3076,7 +3666,7 @@
           "status_id": 1,
           "venue_id": "p4jwq2gh2znm0ve"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.426Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.413Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3243,7 +3833,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T07:13:47.984Z",
+        "node_api_updated_at": "2026-03-02T07:55:47.974Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3348,7 +3938,7 @@
             "pressure": "759mmHg",
             "temperature": "11°C",
             "weather": 10,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "home_scores": [
             0,
@@ -3390,7 +3980,7 @@
               "pressure": "759mmHg",
               "temperature": "11°C",
               "weather": 10,
-              "wind": "1.5m/s"
+              "wind": "1.2m/s"
             },
             "home_position": "5",
             "home_scores": [
@@ -3415,7 +4005,7 @@
             },
             "season_id": "kjw2r09h811rz84",
             "status_id": 1,
-            "updated_at": 1772433615,
+            "updated_at": 1772436016,
             "venue_id": "p4jwq2ghvxvm0ve"
           },
           "referee_id": "z8yomo4hxxnq0j6",
@@ -3423,7 +4013,7 @@
           "status_id": 1,
           "venue_id": "p4jwq2ghvxvm0ve"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.098Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.068Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3596,10 +4186,10 @@
           "custom_key": "931daca11a08ea3194e3caa44252bb33",
           "environment": {
             "humidity": "73%",
-            "pressure": "760mmHg",
+            "pressure": "761mmHg",
             "temperature": "24°C",
             "weather": 1,
-            "wind": "4.8m/s"
+            "wind": "4.5m/s"
           },
           "home_scores": [
             0,
@@ -3638,10 +4228,10 @@
             },
             "environment": {
               "humidity": "73%",
-              "pressure": "760mmHg",
+              "pressure": "761mmHg",
               "temperature": "24°C",
               "weather": 1,
-              "wind": "4.8m/s"
+              "wind": "4.5m/s"
             },
             "home_position": "21",
             "home_scores": [
@@ -3666,7 +4256,7 @@
             },
             "season_id": "9vjxm8ghny8r6od",
             "status_id": 1,
-            "updated_at": 1772433615,
+            "updated_at": 1772437816,
             "venue_id": ""
           },
           "referee_id": "",
@@ -3674,11 +4264,86 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.271Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.242Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
         "video_url": "https"
+      },
+      "huracan-vs-belgrano-luc-0515-ngay-04-03-2026-oj7x9ix0og5s47g": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 344,
+            "houseId": "75915087",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png",
+            "houseIntroduction": "",
+            "houseName": "ASIAN WCup\tKorea Republic W\tvs  Iran W",
+            "liveStatus": 1,
+            "matchId": "oj7x9ix0og5s47g",
+            "nickName": "BLV MONSTER",
+            "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
+            "visitHistory": 2620787
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465077",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465077",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "9oj7x9ijvvsr7g3",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/f24c6d2696f439d43875fba52100991d.png!w80",
+        "awayTeamName": "Belgrano",
+        "away_team": {
+          "id": "9oj7x9ijvvsr7g3",
+          "logo": "https://img.colatv88xd.cc/football/team/f24c6d2696f439d43875fba52100991d.png!w80",
+          "name": "Belgrano"
+        },
+        "competition": {
+          "id": "0ndkz6iywtgq3z1",
+          "logo": "https://img.colatv88xd.cc/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png!w80",
+          "name": "Giải Bóng đá Vô địch Quốc gia Argentina"
+        },
+        "competitionId": "0ndkz6iywtgq3z1",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png!w80",
+        "competitionName": "Giải Bóng đá Vô địch Quốc gia Argentina",
+        "custom_key": "0fff1b06b945cfdba90fdc57c1d42831",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "8lk2digyyzf3736",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80",
+        "homeTeamName": "Huracan",
+        "home_team": {
+          "id": "8lk2digyyzf3736",
+          "logo": "https://img.colatv88xd.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80",
+          "name": "Huracan"
+        },
+        "house_id": null,
+        "matchId": "oj7x9ix0og5s47g",
+        "matchStatus": 1,
+        "matchTime": 1772576100,
+        "match_id": "oj7x9ix0og5s47g",
+        "match_status": "scheduled",
+        "match_time": 1772576100,
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
       },
       "imt-novi-beograd-vs-radnik-luc-2300-ngay-02-03-2026-8lk2dir55m0uz73": {
         "anchorAppointmentVoList": [
@@ -3776,9 +4441,9 @@
           "competition_id": "yl5ergphk2r8k0o",
           "custom_key": "9bf161d3ab46c4a5a0c3b1467ddea86b",
           "environment": {
-            "humidity": "61%",
+            "humidity": "62%",
             "pressure": "770mmHg",
-            "temperature": "14°C",
+            "temperature": "13°C",
             "weather": 5,
             "wind": "1.8m/s"
           },
@@ -3818,9 +4483,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "61%",
+              "humidity": "62%",
               "pressure": "770mmHg",
-              "temperature": "14°C",
+              "temperature": "13°C",
               "weather": 5,
               "wind": "1.8m/s"
             },
@@ -3847,7 +4512,7 @@
             },
             "season_id": "j1l4rjnhvz7m7vx",
             "status_id": 1,
-            "updated_at": 1772433615,
+            "updated_at": 1772436015,
             "venue_id": "p3glrw7hx07qdyj"
           },
           "referee_id": "",
@@ -3855,7 +4520,82 @@
           "status_id": 1,
           "venue_id": "p3glrw7hx07qdyj"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.353Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.326Z",
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
+      },
+      "independiente-petroleros-vs-guabira-bol-luc-0500-ngay-04-03-2026-wv78xivx52ocokr": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 227,
+            "houseId": "71426314",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
+            "houseIntroduction": "",
+            "houseName": "ARG D1\tEstudiantes L.P.  vs  Velez Sarsfield",
+            "liveStatus": 1,
+            "matchId": "wv78xivx52ocokr",
+            "nickName": "BLV FANTA",
+            "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
+            "visitHistory": 2229302
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4469783",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4469783",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "8lk2dig3y2h3736",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/d390f3b4be2499face8eb4af0e73140e.png!w80",
+        "awayTeamName": "Guabira (Bol)",
+        "away_team": {
+          "id": "8lk2dig3y2h3736",
+          "logo": "https://img.colatv88xd.cc/football/team/d390f3b4be2499face8eb4af0e73140e.png!w80",
+          "name": "Guabira (Bol)"
+        },
+        "competition": {
+          "id": "2jr7owiwys1q0em",
+          "logo": "https://img.colatv88xd.cc/football/competition/2341037b4e4eff9683c5c15fd188127e.png!w80",
+          "name": "Siêu Cúp Nam Mỹ"
+        },
+        "competitionId": "2jr7owiwys1q0em",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/2341037b4e4eff9683c5c15fd188127e.png!w80",
+        "competitionName": "Siêu Cúp Nam Mỹ",
+        "custom_key": "cb75341fdca25cdcc0df0f7919c1b7dd",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "xvkjoiozwdfx793",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/97f1608bfe5c72492cb5e201f93a6cda.png!w80",
+        "homeTeamName": "Independiente Petroleros",
+        "home_team": {
+          "id": "xvkjoiozwdfx793",
+          "logo": "https://img.colatv88xd.cc/football/team/97f1608bfe5c72492cb5e201f93a6cda.png!w80",
+          "name": "Independiente Petroleros"
+        },
+        "house_id": null,
+        "matchId": "wv78xivx52ocokr",
+        "matchStatus": 1,
+        "matchTime": 1772575200,
+        "match_id": "wv78xivx52ocokr",
+        "match_status": "scheduled",
+        "match_time": 1772575200,
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3956,7 +4696,7 @@
           "competition_id": "p3glrw7hevqdyjv",
           "custom_key": "7a82a40268ee9ef394f18986ef694629",
           "environment": {
-            "humidity": "64%",
+            "humidity": "66%",
             "pressure": "758mmHg",
             "temperature": "23°C",
             "weather": 6,
@@ -3998,7 +4738,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "64%",
+              "humidity": "66%",
               "pressure": "758mmHg",
               "temperature": "23°C",
               "weather": 6,
@@ -4027,7 +4767,7 @@
             },
             "season_id": "vjxm8gh4vvwr6od",
             "status_id": 1,
-            "updated_at": 1772434814,
+            "updated_at": 1772437215,
             "venue_id": "4zp5rzgh007q82w"
           },
           "referee_id": "jednm9whzk1ryox",
@@ -4035,10 +4775,85 @@
           "status_id": 1,
           "venue_id": "4zp5rzgh007q82w"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.262Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.234Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
+      },
+      "indonesia-w-vs-vietnam-w-luc-1500-ngay-02-03-2026-ndkzysn0y6eax73": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 478,
+            "houseId": "43612277",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjA4Yzc0MjYyMzYtMDg3ZA/ZjFmYTExYjgzY2QtNjBhZg.png",
+            "houseIntroduction": "",
+            "houseName": "ASIAN CUP\tlndonesia W  vs  Vietnam W",
+            "liveStatus": 2,
+            "matchId": "ndkzysn0y6eax73",
+            "nickName": "BLV PEPSI",
+            "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
+            "visitHistory": 6102387
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/basketball?profile=74rekh26eseunr0&showTrend=false&id=3908398",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/basketball?profile=74rekh26eseunr0&showTrend=false&id=3908398",
+        "auto_unpin_minutes": 115,
+        "awayScore": [
+          15,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "ezk90sndg9iwkn5",
+        "awayTeamLogo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAgVBMVEXbIBf//wDaDBjphw/YABjbGxfaExf++gDaDRf++ADkcxLxuQvvsAz//QD98wDiYxPspA7eRhX43Qfqlw7dOBXqkQ/dQBb31QjoixDcMRb0ywrzxAnyvwvhWhP77wXuqg3nfBD65gXjahPldhH31wfsoA7mfhH65QXfTRThXhT0yAoYSN2/AAAEAUlEQVR4nO3d6XaqMBQFYIInEbViHbBiW4faib7/A7agUIaA4LCUk/39vbd3wbnZSYQTa1kAAAAAAAAAAAAAAAAAAAAAAAAAABVoSbe+hHsjZ2Imb30Rd8b2hGff+iLuDE3EBOHJkHMhxBzhSbM7fzVZIDxp9PRXkyeEJ0VaImQhPP+cRVSThXPrC7kjUXQQngwl9tStL+R+OJ1DTToIT+wQHYTnn/R7h5r0fKw8e85OxHYIzx4tk5rggcGBGiY1GWLliai++NdHUUL0nKrJM8ITIpGGmli56CA8kUx0EJ6IdDM1cbFrs9RIZL0hPPSSq8kLwqPcXE1c48eJehV5r6YXhQaFmgxMDw91CzXpGl6TwqoTGpkdHnrQ1OTB7IFCK01NVkbXRAWakhi+8mijY3h47K22JluDX6bLsbYkQowZfhBUdi20LqnJmur9Ay2ad2TgderY6FadaOXZ1Pp5r1U7meKO/RoGt77NRui1uGe/tG7QsuXJsZbH7+osS6t1q5OkxVVL4lEb1yYab69Wke24ZbmJKftaU+2gTatwDu2Gx2+wuU1LB8me7U8uXpGJ37rJNUvS44VL8tjKyTWLgvyT+XO4bduU6Cn7cluVZYsn1yzqHL/bWhYMchO7zFaltZsSPVXyRK2JB+KSmxj1z5tq3T6rQbJnW+9nlOS9fZ/46pA0PbkkH4wm1ywalz1Yq+bymlyzlMp3m9TxorhNrhmS+sdrkLNjm5sYNfxUOJkxzk1M0keDkvCdXLNoVHer4o4MGCR7hb6+Mub0+0mr7ouOrjGna1X9tceYTvNcN3kVYzrN6XgtEobUpEF0jAlP7VUnZMjK4zR5kOIacZBUvTUoiSHHNBpFx5DwyGbPUFYG7No0BzGqGdAsqzmIUc2AYxqagxjV+B/TKI9O6fhhH56yd1+r79IH2Ow7zbUHMf4GiVKWUvqhwv2YRkl0PqMnjJI22j8NeIdH200+8eORoH+AveY9UHQHMdapx9BSV7Qvlq9FY5qDGN3cY2ga9Qp/h+MxjURxFDwVGihU8i1cZoSnsOpoG48KHdicVx7p5+51rr9Zmudqx/grynJ9oeWNRzK3tXvkO1Bom7rPYWXjEfXTHdhbtjWR36nbfJ9Vr7C2n25r+uYannSf0vF345l37VOuA4WSTeqqVjc0BclUy/U7zeUsvsMfVW9n6qif+EeY/kIAO47OZ+2eEkmfcXh47u8P0flq1HhEsy/O4XGim1s37IaOPxWyfPcVRad3QuMRBT2u4Qmjc9r5Vzs8l8sxPOGqMz2xYU+Sx3Llsb1zuqFp7DL8VTTO9KxuaKWmDGfZc/+b+Q0TAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbn4BqS8rfvg87YQAAAAASUVORK5CYII=",
+        "awayTeamName": "Vietnam W",
+        "away_team": {
+          "id": "ezk90sndg9iwkn5",
+          "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAgVBMVEXbIBf//wDaDBjphw/YABjbGxfaExf++gDaDRf++ADkcxLxuQvvsAz//QD98wDiYxPspA7eRhX43Qfqlw7dOBXqkQ/dQBb31QjoixDcMRb0ywrzxAnyvwvhWhP77wXuqg3nfBD65gXjahPldhH31wfsoA7mfhH65QXfTRThXhT0yAoYSN2/AAAEAUlEQVR4nO3d6XaqMBQFYIInEbViHbBiW4faib7/A7agUIaA4LCUk/39vbd3wbnZSYQTa1kAAAAAAAAAAAAAAAAAAAAAAAAAABVoSbe+hHsjZ2Imb30Rd8b2hGff+iLuDE3EBOHJkHMhxBzhSbM7fzVZIDxp9PRXkyeEJ0VaImQhPP+cRVSThXPrC7kjUXQQngwl9tStL+R+OJ1DTToIT+wQHYTnn/R7h5r0fKw8e85OxHYIzx4tk5rggcGBGiY1GWLliai++NdHUUL0nKrJM8ITIpGGmli56CA8kUx0EJ6IdDM1cbFrs9RIZL0hPPSSq8kLwqPcXE1c48eJehV5r6YXhQaFmgxMDw91CzXpGl6TwqoTGpkdHnrQ1OTB7IFCK01NVkbXRAWakhi+8mijY3h47K22JluDX6bLsbYkQowZfhBUdi20LqnJmur9Ay2ad2TgderY6FadaOXZ1Pp5r1U7meKO/RoGt77NRui1uGe/tG7QsuXJsZbH7+osS6t1q5OkxVVL4lEb1yYab69Wke24ZbmJKftaU+2gTatwDu2Gx2+wuU1LB8me7U8uXpGJ37rJNUvS44VL8tjKyTWLgvyT+XO4bduU6Cn7cluVZYsn1yzqHL/bWhYMchO7zFaltZsSPVXyRK2JB+KSmxj1z5tq3T6rQbJnW+9nlOS9fZ/46pA0PbkkH4wm1ywalz1Yq+bymlyzlMp3m9TxorhNrhmS+sdrkLNjm5sYNfxUOJkxzk1M0keDkvCdXLNoVHer4o4MGCR7hb6+Mub0+0mr7ouOrjGna1X9tceYTvNcN3kVYzrN6XgtEobUpEF0jAlP7VUnZMjK4zR5kOIacZBUvTUoiSHHNBpFx5DwyGbPUFYG7No0BzGqGdAsqzmIUc2AYxqagxjV+B/TKI9O6fhhH56yd1+r79IH2Ow7zbUHMf4GiVKWUvqhwv2YRkl0PqMnjJI22j8NeIdH200+8eORoH+AveY9UHQHMdapx9BSV7Qvlq9FY5qDGN3cY2ga9Qp/h+MxjURxFDwVGihU8i1cZoSnsOpoG48KHdicVx7p5+51rr9Zmudqx/grynJ9oeWNRzK3tXvkO1Bom7rPYWXjEfXTHdhbtjWR36nbfJ9Vr7C2n25r+uYannSf0vF345l37VOuA4WSTeqqVjc0BclUy/U7zeUsvsMfVW9n6qif+EeY/kIAO47OZ+2eEkmfcXh47u8P0flq1HhEsy/O4XGim1s37IaOPxWyfPcVRad3QuMRBT2u4Qmjc9r5Vzs8l8sxPOGqMz2xYU+Sx3Llsb1zuqFp7DL8VTTO9KxuaKWmDGfZc/+b+Q0TAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbn4BqS8rfvg87YQAAAAASUVORK5CYII=",
+          "name": "Vietnam W"
+        },
+        "competition": {
+          "id": "2ezk90sem5t2kn5",
+          "logo": "https://img.colatv88xd.cc/basketball/competition/c8c9ecc7b9a1bf08e0e64e236b8614c8.png!w80",
+          "name": "Women's Futsal ASEAN"
+        },
+        "competitionId": "2ezk90sem5t2kn5",
+        "competitionLogo": "https://img.colatv88xd.cc/basketball/competition/c8c9ecc7b9a1bf08e0e64e236b8614c8.png!w80",
+        "competitionName": "Women's Futsal ASEAN",
+        "custom_key": "56ad07f09b94730196954d02cf6feef4",
+        "homeScore": [
+          10,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "63kvlsj1drbp7ez",
+        "homeTeamLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG52QdAD8gCXjQSqT_oLNiXhuz0zCWIXXeZg&s",
+        "homeTeamName": "Indonesia W",
+        "home_team": {
+          "id": "63kvlsj1drbp7ez",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG52QdAD8gCXjQSqT_oLNiXhuz0zCWIXXeZg&s",
+          "name": "Indonesia W"
+        },
+        "house_id": "43612277",
+        "matchId": "ndkzysn0y6eax73",
+        "matchStatus": 2,
+        "matchTime": 1772438400,
+        "match_id": "ndkzysn0y6eax73",
+        "match_status": "live",
+        "match_time": 1772438400,
+        "pin_hot_anchor": "43612277",
+        "sportId": 2,
+        "sport_id": 2,
+        "video_url": null,
+        "zalo_enabled": false,
+        "zalo_phone": ""
       },
       "los-angeles-lakers-vs-new-orleans-pelicans-luc-1030-ngay-04-03-2026-oj7x6szvv59h47g": {
         "anchorAppointmentVoList": [
@@ -4126,7 +4941,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616576
+            "visitHistory": 2616592
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4420427",
@@ -4285,7 +5100,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4h2gdq0j6"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.501Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.493Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4358,6 +5173,81 @@
         "match_time": 1772497800,
         "sportId": 2,
         "sport_id": 2,
+        "video_url": null
+      },
+      "nhat-ban-nu-vs-dai-loan-tq-nu-luc-1200-ngay-04-03-2026-ndkz6i3xdooaxq3": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 63,
+            "houseId": "88508431",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGU2MGFkODUxMjEtNjA2ZQ/MjcxYzQ3ZGEzMDYtMWU0ZQ.jpg",
+            "houseIntroduction": "",
+            "houseName": "ARG D1\tInd. Rivadavia\tvs River Plate",
+            "liveStatus": 1,
+            "matchId": "ndkz6i3xdooaxq3",
+            "nickName": "BLV RỒNG ĐỎ",
+            "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
+            "visitHistory": 2131499
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390948",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390948",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "9gklzi0nn1u17xd",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/dd16bbf8fa4c2cf5fb477b79738768f4.png!w80",
+        "awayTeamName": "Đài Loan TQ Nữ",
+        "away_team": {
+          "id": "9gklzi0nn1u17xd",
+          "logo": "https://img.colatv88xd.cc/football/team/dd16bbf8fa4c2cf5fb477b79738768f4.png!w80",
+          "name": "Đài Loan TQ Nữ"
+        },
+        "competition": {
+          "id": "4ndqmlilwt5kveg",
+          "logo": "https://img.colatv88xd.cc/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png!w80",
+          "name": "Cúp Asian Nữ"
+        },
+        "competitionId": "4ndqmlilwt5kveg",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png!w80",
+        "competitionName": "Cúp Asian Nữ",
+        "custom_key": "91ec2fd5bbea2296bfa4069dd708563f",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "ndqmlixpm8ugkve",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/90fb994bffbb0b8754b4d971092ef034.png!w80",
+        "homeTeamName": "Nhật Bản Nữ",
+        "home_team": {
+          "id": "ndqmlixpm8ugkve",
+          "logo": "https://img.colatv88xd.cc/football/team/90fb994bffbb0b8754b4d971092ef034.png!w80",
+          "name": "Nhật Bản Nữ"
+        },
+        "house_id": null,
+        "matchId": "ndkz6i3xdooaxq3",
+        "matchStatus": 1,
+        "matchTime": 1772600400,
+        "match_id": "ndkz6i3xdooaxq3",
+        "match_status": "scheduled",
+        "match_time": 1772600400,
+        "sportId": 1,
+        "sport_id": 1,
         "video_url": null
       },
       "panathinaikos-vs-ofi-crete-luc-2300-ngay-04-03-2026-527r3i4ylrwi47e": {
@@ -4445,13 +5335,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjA4Yzc0MjYyMzYtMDg3ZA/ZjFmYTExYjgzY2QtNjBhZg.png",
             "houseIntroduction": "",
             "houseName": "ASIAN CUP\tlndonesia W  vs  Vietnam W",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "9gklzi1o2v5tm7x",
             "nickName": "BLV PEPSI",
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6102333
+            "visitHistory": 6102387
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4379486",
@@ -4531,11 +5421,11 @@
           "competition_id": "56ypq3nhz53md7o",
           "custom_key": "09c1be0fa05df0acbafe40d49b779192",
           "environment": {
-            "humidity": "92%",
+            "humidity": "93%",
             "pressure": "758mmHg",
             "temperature": "26°C",
             "weather": 7,
-            "wind": "2.6m/s"
+            "wind": "2.3m/s"
           },
           "home_scores": [
             0,
@@ -4573,11 +5463,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "92%",
+              "humidity": "93%",
               "pressure": "758mmHg",
               "temperature": "26°C",
               "weather": 7,
-              "wind": "2.6m/s"
+              "wind": "2.3m/s"
             },
             "home_position": "6",
             "home_scores": [
@@ -4602,7 +5492,7 @@
             },
             "season_id": "4zp5rzgh80yq82w",
             "status_id": 1,
-            "updated_at": 1772431268,
+            "updated_at": 1772436613,
             "venue_id": "e4wyrn4h93pq86p"
           },
           "referee_id": "",
@@ -4610,7 +5500,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4h93pq86p"
         },
-        "node_api_updated_at": "2026-03-02T07:13:47.988Z",
+        "node_api_updated_at": "2026-03-02T07:55:47.977Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -4632,7 +5522,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/68848594.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/68848594.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YmVkOWQzNzBlMzctZjNmYQ/NTQ3NDg5M2RjZWYtYjc2OQ.jpg",
-            "visitHistory": 1399330
+            "visitHistory": 1399358
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4379468",
@@ -4716,7 +5606,7 @@
             "pressure": "758mmHg",
             "temperature": "27°C",
             "weather": 7,
-            "wind": "3.7m/s"
+            "wind": "4.0m/s"
           },
           "home_scores": [
             0,
@@ -4758,7 +5648,7 @@
               "pressure": "758mmHg",
               "temperature": "27°C",
               "weather": 7,
-              "wind": "3.7m/s"
+              "wind": "4.0m/s"
             },
             "home_position": "2",
             "home_scores": [
@@ -4783,7 +5673,7 @@
             },
             "season_id": "4zp5rzgh80yq82w",
             "status_id": 1,
-            "updated_at": 1772418038,
+            "updated_at": 1772436613,
             "venue_id": "e4wyrn4h4jxq86p"
           },
           "referee_id": "",
@@ -4791,7 +5681,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4h4jxq86p"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.097Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.067Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4958,7 +5848,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.189Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.157Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4979,7 +5869,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9506119
+            "visitHistory": 9506125
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339844",
@@ -5138,7 +6028,7 @@
           "status_id": 1,
           "venue_id": "kn54qllhg3nqvy9"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.496Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.488Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5241,7 +6131,7 @@
           "environment": {
             "humidity": "88%",
             "pressure": "758mmHg",
-            "temperature": "27°C",
+            "temperature": "28°C",
             "weather": 7,
             "wind": "5.1m/s"
           },
@@ -5283,7 +6173,7 @@
             "environment": {
               "humidity": "88%",
               "pressure": "758mmHg",
-              "temperature": "27°C",
+              "temperature": "28°C",
               "weather": 7,
               "wind": "5.1m/s"
             },
@@ -5310,7 +6200,7 @@
             },
             "season_id": "4zp5rzgh80yq82w",
             "status_id": 1,
-            "updated_at": 1772433015,
+            "updated_at": 1772436613,
             "venue_id": "kjw2r09h1zorz84"
           },
           "referee_id": "",
@@ -5318,7 +6208,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09h1zorz84"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.497Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.490Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -5424,7 +6314,7 @@
             "pressure": "756mmHg",
             "temperature": "33°C",
             "weather": 5,
-            "wind": "2.6m/s"
+            "wind": "2.9m/s"
           },
           "home_scores": [
             0,
@@ -5466,7 +6356,7 @@
               "pressure": "756mmHg",
               "temperature": "33°C",
               "weather": 5,
-              "wind": "2.6m/s"
+              "wind": "2.9m/s"
             },
             "home_position": "9",
             "home_scores": [
@@ -5491,7 +6381,7 @@
             },
             "season_id": "kdj2ryoh810q1zp",
             "status_id": 1,
-            "updated_at": 1772434816,
+            "updated_at": 1772436613,
             "venue_id": "e4wyrn4hxpkq86p"
           },
           "referee_id": "",
@@ -5499,7 +6389,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4hxpkq86p"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.189Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.158Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5636,7 +6526,7 @@
             "pressure": "762mmHg",
             "temperature": "12°C",
             "weather": 9,
-            "wind": "4.0m/s"
+            "wind": "4.3m/s"
           },
           "home_scores": [
             0,
@@ -5678,7 +6568,7 @@
               "pressure": "762mmHg",
               "temperature": "12°C",
               "weather": 9,
-              "wind": "4.0m/s"
+              "wind": "4.3m/s"
             },
             "home_position": "2",
             "home_scores": [
@@ -5703,7 +6593,7 @@
             },
             "season_id": "56ypq3nhxw7md7o",
             "status_id": 1,
-            "updated_at": 1772430615,
+            "updated_at": 1772437216,
             "venue_id": "z8yomo4hke0q0j6"
           },
           "referee_id": "kjw2r09hxp2rz84",
@@ -5711,7 +6601,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4hke0q0j6"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.193Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.160Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5859,6 +6749,81 @@
         "match_time": 1772596800,
         "sportId": 2,
         "sport_id": 2,
+        "video_url": null
+      },
+      "santos-laguna-vs-cruz-azul-luc-0800-ngay-04-03-2026-xvkjoi8zr1ji879": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 344,
+            "houseId": "75915087",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png",
+            "houseIntroduction": "",
+            "houseName": "ASIAN WCup\tKorea Republic W\tvs  Iran W",
+            "liveStatus": 1,
+            "matchId": "xvkjoi8zr1ji879",
+            "nickName": "BLV MONSTER",
+            "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
+            "visitHistory": 2620787
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465531",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465531",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "yzrkn6ixnwsnqle",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80",
+        "awayTeamName": "Cruz Azul",
+        "away_team": {
+          "id": "yzrkn6ixnwsnqle",
+          "logo": "https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80",
+          "name": "Cruz Azul"
+        },
+        "competition": {
+          "id": "2j374oixwu4qo6d",
+          "logo": "https://img.colatv88xd.cc/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png!w80",
+          "name": "Giải Vô địch Bóng đá Quốc gia Mexico"
+        },
+        "competitionId": "2j374oixwu4qo6d",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png!w80",
+        "competitionName": "Giải Vô địch Bóng đá Quốc gia Mexico",
+        "custom_key": "9f60cf8c77324d41f458dcde8dc9d32a",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "oj7x9irw0rir7g3",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/2552214027525015c3545cff636f5e03.png!w80",
+        "homeTeamName": "Santos Laguna",
+        "home_team": {
+          "id": "oj7x9irw0rir7g3",
+          "logo": "https://img.colatv88xd.cc/football/team/2552214027525015c3545cff636f5e03.png!w80",
+          "name": "Santos Laguna"
+        },
+        "house_id": null,
+        "matchId": "xvkjoi8zr1ji879",
+        "matchStatus": 1,
+        "matchTime": 1772586000,
+        "match_id": "xvkjoi8zr1ji879",
+        "match_status": "scheduled",
+        "match_time": 1772586000,
+        "sportId": 1,
+        "sport_id": 1,
         "video_url": null
       },
       "sassuolo-u19-vs-juventus-u19-luc-2200-ngay-03-03-2026-j374oi0dx2jtgqo": {
@@ -6023,7 +6988,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.354Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.327Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6203,11 +7168,86 @@
           "status_id": 1,
           "venue_id": "p3glrw7hl5zqdyj"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.269Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.241Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
         "video_url": "https"
+      },
+      "semen-padang-vs-psim-yogyakarta-luc-2100-ngay-04-03-2026-m2q15iznlngue76": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 48,
+            "houseId": "90725470",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
+            "houseIntroduction": "",
+            "houseName": "ASIAN WCup\tNorth Korea W  vs Uzbekistan W",
+            "liveStatus": 1,
+            "matchId": "m2q15iznlngue76",
+            "nickName": "BLV SPRITE",
+            "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
+            "visitHistory": 2217196
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4379427",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4379427",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "9gklziyv33c17xd",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80",
+        "awayTeamName": "PSIM Yogyakarta",
+        "away_team": {
+          "id": "9gklziyv33c17xd",
+          "logo": "https://img.colatv88xd.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80",
+          "name": "PSIM Yogyakarta"
+        },
+        "competition": {
+          "id": "2jr7owijlrf1q0e",
+          "logo": "https://img.colatv88xd.cc/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png!w80",
+          "name": "Giải bóng đá Liga 1 Indonesia"
+        },
+        "competitionId": "2jr7owijlrf1q0e",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png!w80",
+        "competitionName": "Giải bóng đá Liga 1 Indonesia",
+        "custom_key": "317f517c9cefddc12d6a1f48367f98e8",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "o17pjir15wh27jw",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80",
+        "homeTeamName": "Semen Padang",
+        "home_team": {
+          "id": "o17pjir15wh27jw",
+          "logo": "https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80",
+          "name": "Semen Padang"
+        },
+        "house_id": null,
+        "matchId": "m2q15iznlngue76",
+        "matchStatus": 1,
+        "matchTime": 1772632800,
+        "match_id": "m2q15iznlngue76",
+        "match_status": "scheduled",
+        "match_time": 1772632800,
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
       },
       "south-east-melbourne-vs-perth-wildcats-luc-1530-ngay-04-03-2026-527rjswz3dds4ke": {
         "anchorAppointmentVoList": [
@@ -6376,7 +7416,7 @@
           "competition_id": "kn54qllhn0qvy9d",
           "custom_key": "abdded6af343a52401245d08953ff6ac",
           "environment": {
-            "humidity": "69%",
+            "humidity": "67%",
             "pressure": "770mmHg",
             "temperature": "11°C",
             "weather": 1,
@@ -6418,7 +7458,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "69%",
+              "humidity": "67%",
               "pressure": "770mmHg",
               "temperature": "11°C",
               "weather": 1,
@@ -6447,7 +7487,7 @@
             },
             "season_id": "9vjxm8ghyjkr6od",
             "status_id": 1,
-            "updated_at": 1772435415,
+            "updated_at": 1772437215,
             "venue_id": "x7lm7phkolgm2wd"
           },
           "referee_id": "",
@@ -6455,7 +7495,7 @@
           "status_id": 1,
           "venue_id": "x7lm7phkolgm2wd"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.358Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.331Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6476,7 +7516,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616576
+            "visitHistory": 2616592
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4454753",
@@ -6535,6 +7575,173 @@
         "sport_id": 1,
         "video_url": null
       },
+      "tho-nhi-ky-nu-vs-malta-nu-luc-2100-ngay-03-03-2026-vrqwni43616a4qn": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 38,
+            "houseId": "02456966",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
+            "houseIntroduction": "",
+            "houseName": "POR LRU23\tFarense U23  vs  Vizela U23",
+            "liveStatus": 1,
+            "matchId": "vrqwni43616a4qn",
+            "nickName": "BLV SODA",
+            "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
+            "visitHistory": 214699
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4454790",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4454790",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "8vrqwniyl2fdqn2",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/f7eb745a5f9b3016b083019da91b5f74.png!w80",
+        "awayTeamName": "Malta Nữ",
+        "away_team": {
+          "id": "8vrqwniyl2fdqn2",
+          "logo": "https://img.colatv88xd.cc/football/team/f7eb745a5f9b3016b083019da91b5f74.png!w80",
+          "name": "Malta Nữ"
+        },
+        "competition": {
+          "id": "5wv78xijjujkrjn",
+          "logo": "https://img.colatv88xd.cc/football/competition/45c47fad4b3de71014c5173e34430fcc.png!w80",
+          "name": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu"
+        },
+        "competitionId": "5wv78xijjujkrjn",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/45c47fad4b3de71014c5173e34430fcc.png!w80",
+        "competitionName": "Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu",
+        "custom_key": "44c59f7c297f099048ea0a7c1b10e1f5",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "zjek33i433bdko2",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80",
+        "homeTeamName": "Thổ Nhĩ Kỳ Nữ",
+        "home_team": {
+          "id": "zjek33i433bdko2",
+          "logo": "https://img.colatv88xd.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80",
+          "name": "Thổ Nhĩ Kỳ Nữ"
+        },
+        "house_id": null,
+        "matchId": "vrqwni43616a4qn",
+        "matchStatus": 1,
+        "matchTime": 1772546400,
+        "match_id": "vrqwni43616a4qn",
+        "match_status": "scheduled",
+        "match_time": 1772546400,
+        "node_api_data": {
+          "_id": "69a4d5ce07c7bc72a59357d6",
+          "away_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "away_team": {
+            "id": "jednm9wh36oryox",
+            "logo": "https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png",
+            "name": "Malta Women"
+          },
+          "away_team_id": "jednm9wh36oryox",
+          "competition": {
+            "id": "gx7lm7ph00m2wdk",
+            "logo": "https://img.thesports.com/football/competition/45c47fad4b3de71014c5173e34430fcc.png",
+            "name": "FIFA Women's World Cup qualification(UEFA)"
+          },
+          "competition_id": "gx7lm7ph00m2wdk",
+          "custom_key": "44c59f7c297f099048ea0a7c1b10e1f5",
+          "environment": {},
+          "home_scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "home_team": {
+            "id": "j1l4rjnh733m7vx",
+            "logo": "https://img.thesports.com/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png",
+            "name": "Turkiye Women"
+          },
+          "home_team_id": "j1l4rjnh733m7vx",
+          "match_date_vn": "20260303",
+          "match_id": "y39mp1h649v9moj",
+          "match_time": 1772546400,
+          "raw": {
+            "away_position": "88",
+            "away_scores": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "away_team_id": "jednm9wh36oryox",
+            "competition_id": "gx7lm7ph00m2wdk",
+            "coverage": {
+              "lineup": 0,
+              "mlive": 1
+            },
+            "home_position": "58",
+            "home_scores": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "home_team_id": "j1l4rjnh733m7vx",
+            "id": "y39mp1h649v9moj",
+            "match_time": 1772546400,
+            "neutral": 0,
+            "note": "",
+            "referee_id": "",
+            "round": {
+              "group_num": 2,
+              "round_num": 0,
+              "stage_id": "l5ergph713jr8k0"
+            },
+            "season_id": "9dn1m1gh6w6moep",
+            "status_id": 1,
+            "updated_at": 1771953668,
+            "venue_id": ""
+          },
+          "referee_id": "",
+          "season_id": "9dn1m1gh6w6moep",
+          "status_id": 1,
+          "venue_id": ""
+        },
+        "node_api_updated_at": "2026-03-02T07:55:48.070Z",
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
+      },
       "torreense-u23-vs-hoc-vien-viseu-u23-luc-2200-ngay-03-03-2026-o07dni5mwzlumkn": {
         "anchorAppointmentVoList": [
           {
@@ -6551,7 +7758,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616576
+            "visitHistory": 2616592
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4472517",
@@ -6697,7 +7904,7 @@
           "status_id": 1,
           "venue_id": "gy0or5jh2e3qwzv"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.353Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.325Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6864,7 +8071,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.092Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.058Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6879,13 +8086,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjA4Yzc0MjYyMzYtMDg3ZA/ZjFmYTExYjgzY2QtNjBhZg.png",
             "houseIntroduction": "",
             "houseName": "ASIAN CUP\tlndonesia W  vs  Vietnam W",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "j374oi0z6erigqo",
             "nickName": "BLV PEPSI",
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6102333
+            "visitHistory": 6102387
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390936",
@@ -7031,7 +8238,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.432Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.419Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7046,13 +8253,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjA4Yzc0MjYyMzYtMDg3ZA/ZjFmYTExYjgzY2QtNjBhZg.png",
             "houseIntroduction": "",
             "houseName": "ASIAN CUP\tlndonesia W  vs  Vietnam W",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "jek33i862djh9ko",
             "nickName": "BLV PEPSI",
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6102333
+            "visitHistory": 6102387
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339850",
@@ -7132,10 +8339,10 @@
           "competition_id": "4zp5rzghp5q82w1",
           "custom_key": "8657e93c8845baebc29da4e0a7833723",
           "environment": {
-            "humidity": "93%",
+            "humidity": "94%",
             "pressure": "771mmHg",
             "temperature": "9°C",
-            "weather": 9,
+            "weather": 10,
             "wind": "1.5m/s"
           },
           "home_scores": [
@@ -7174,10 +8381,10 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "93%",
+              "humidity": "94%",
               "pressure": "771mmHg",
               "temperature": "9°C",
-              "weather": 9,
+              "weather": 10,
               "wind": "1.5m/s"
             },
             "home_position": "12",
@@ -7203,7 +8410,7 @@
             },
             "season_id": "4zp5rzghn83q82w",
             "status_id": 1,
-            "updated_at": 1772434814,
+            "updated_at": 1772437216,
             "venue_id": "vl7oqdehnp5r510"
           },
           "referee_id": "gy0or5jh450qwzv",
@@ -7211,7 +8418,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdehnp5r510"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.267Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.239Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7232,7 +8439,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/68848594.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/68848594.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YmVkOWQzNzBlMzctZjNmYQ/NTQ3NDg5M2RjZWYtYjc2OQ.jpg",
-            "visitHistory": 1399330
+            "visitHistory": 1399358
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4454754",
@@ -7287,6 +8494,81 @@
         "match_id": "jr7owip1z54hgq0",
         "match_status": "scheduled",
         "match_time": 1772557200,
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
+      },
+      "unam-pumas-vs-toluca-luc-1010-ngay-04-03-2026-ndqmliw349gurkv": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 442,
+            "houseId": "33982309",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
+            "houseIntroduction": "",
+            "houseName": "KOR D2   Busan IPark  vs   Seongnam FC  ",
+            "liveStatus": 2,
+            "matchId": "ndqmliw349gurkv",
+            "nickName": "BLV REVIVE",
+            "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/33982309.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",
+            "visitHistory": 1392352
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465497",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465497",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "2ezk96iv1pawkn5",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/725ccd5793be6b4f8dd917170dd17d04.png!w80",
+        "awayTeamName": "Toluca",
+        "away_team": {
+          "id": "2ezk96iv1pawkn5",
+          "logo": "https://img.colatv88xd.cc/football/team/725ccd5793be6b4f8dd917170dd17d04.png!w80",
+          "name": "Toluca"
+        },
+        "competition": {
+          "id": "2j374oixwu4qo6d",
+          "logo": "https://img.colatv88xd.cc/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png!w80",
+          "name": "Giải Vô địch Bóng đá Quốc gia Mexico"
+        },
+        "competitionId": "2j374oixwu4qo6d",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png!w80",
+        "competitionName": "Giải Vô địch Bóng đá Quốc gia Mexico",
+        "custom_key": "e989f915d4bcd2a49e6cc3e5747948de",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "5xvkjoie4ptx793",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/7654a95374767f93f6bec6a3d4819f76.png!w80",
+        "homeTeamName": "U.N.A.M.- Pumas",
+        "home_team": {
+          "id": "5xvkjoie4ptx793",
+          "logo": "https://img.colatv88xd.cc/football/team/7654a95374767f93f6bec6a3d4819f76.png!w80",
+          "name": "U.N.A.M.- Pumas"
+        },
+        "house_id": null,
+        "matchId": "ndqmliw349gurkv",
+        "matchStatus": 1,
+        "matchTime": 1772593800,
+        "match_id": "ndqmliw349gurkv",
+        "match_status": "scheduled",
+        "match_time": 1772593800,
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7466,7 +8748,189 @@
           "status_id": 1,
           "venue_id": "kn54qllhwpgqvy9"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.189Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.158Z",
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
+      },
+      "viet-nam-nu-vs-an-do-nu-luc-1800-ngay-04-03-2026-ezk96i3lw51c1kn": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 162,
+            "houseId": "24561735",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
+            "houseIntroduction": "",
+            "houseName": "SPA D1  Real Madrid   vs  Getafe  ",
+            "liveStatus": 1,
+            "matchId": "ezk96i3lw51c1kn",
+            "nickName": "BLV COCA",
+            "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
+            "visitHistory": 4103166
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 89,
+            "houseId": "14830711",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
+            "houseIntroduction": "",
+            "houseName": "SER SL\t FK IMT Belgrad  vs  Radnik Surdulica",
+            "liveStatus": 1,
+            "matchId": "ezk96i3lw51c1kn",
+            "nickName": "BLV GIÀ LÀNG",
+            "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
+            "visitHistory": 3634735
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390938",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390938",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "w69759io2lsnk23",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/7183145a2a3e0ce2b68cd3735186b1d5.png!w80",
+        "awayTeamName": "Ấn Độ Nữ",
+        "away_team": {
+          "id": "w69759io2lsnk23",
+          "logo": "https://img.colatv88xd.cc/football/team/7183145a2a3e0ce2b68cd3735186b1d5.png!w80",
+          "name": "Ấn Độ Nữ"
+        },
+        "competition": {
+          "id": "4ndqmlilwt5kveg",
+          "logo": "https://img.colatv88xd.cc/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png!w80",
+          "name": "Cúp Asian Nữ"
+        },
+        "competitionId": "4ndqmlilwt5kveg",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png!w80",
+        "competitionName": "Cúp Asian Nữ",
+        "custom_key": "0bf52dc51fe9451e1208fab00ca93936",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "527r3ie133h87ev",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/4e91bada7f302a3370bedc1d4f783066.png!w80",
+        "homeTeamName": "Việt Nam Nữ",
+        "home_team": {
+          "id": "527r3ie133h87ev",
+          "logo": "https://img.colatv88xd.cc/football/team/4e91bada7f302a3370bedc1d4f783066.png!w80",
+          "name": "Việt Nam Nữ"
+        },
+        "house_id": null,
+        "matchId": "ezk96i3lw51c1kn",
+        "matchStatus": 1,
+        "matchTime": 1772622000,
+        "match_id": "ezk96i3lw51c1kn",
+        "match_status": "scheduled",
+        "match_time": 1772622000,
+        "sportId": 1,
+        "sport_id": 1,
+        "video_url": null
+      },
+      "wolverhampton-wanderers-vs-liverpool-luc-0315-ngay-04-03-2026-o17pjiorp9mfy7j": {
+        "anchorAppointmentVoList": [
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 121,
+            "houseId": "97312754",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
+            "houseIntroduction": "",
+            "houseName": "POL D1\tZaglebie Lubin  vs  Wisla Plock",
+            "liveStatus": 1,
+            "matchId": "o17pjiorp9mfy7j",
+            "nickName": "BLV ÔLONG",
+            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
+            "visitHistory": 2230927
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "足球",
+            "fansCount": 162,
+            "houseId": "24561735",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
+            "houseIntroduction": "",
+            "houseName": "SPA D1  Real Madrid   vs  Getafe  ",
+            "liveStatus": 1,
+            "matchId": "o17pjiorp9mfy7j",
+            "nickName": "BLV COCA",
+            "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
+            "visitHistory": 4103166
+          }
+        ],
+        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343297",
+        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343297",
+        "awayScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "awayTeamId": "0ndkz6iy4zieq3z",
+        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80",
+        "awayTeamName": "Liverpool",
+        "away_team": {
+          "id": "0ndkz6iy4zieq3z",
+          "logo": "https://img.colatv88xd.cc/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w80",
+          "name": "Liverpool"
+        },
+        "competition": {
+          "id": "mo07dni2vfxknxy",
+          "logo": "https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png",
+          "name": "Giải bóng đá Ngoại hạng Anh"
+        },
+        "competitionId": "mo07dni2vfxknxy",
+        "competitionLogo": "https://img.colatv88xd.cc/football/competition/https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin/5MlF58WMTJOmYkjkSjhtKQ.png",
+        "competitionName": "Giải bóng đá Ngoại hạng Anh",
+        "custom_key": "c841ed06e35bbeb9b7d74d5f6d4b25b8",
+        "homeScore": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "homeTeamId": "n527r3ixz9b87ev",
+        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/5759932ca2512c6701d86dfbd58380a7.png!w80",
+        "homeTeamName": "Wolverhampton Wanderers",
+        "home_team": {
+          "id": "n527r3ixz9b87ev",
+          "logo": "https://img.colatv88xd.cc/football/team/5759932ca2512c6701d86dfbd58380a7.png!w80",
+          "name": "Wolverhampton Wanderers"
+        },
+        "house_id": null,
+        "matchId": "o17pjiorp9mfy7j",
+        "matchStatus": 1,
+        "matchTime": 1772568900,
+        "match_id": "o17pjiorp9mfy7j",
+        "match_status": "scheduled",
+        "match_time": 1772568900,
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7567,7 +9031,7 @@
           "competition_id": "vl7oqdeh3lr510j",
           "custom_key": "84ea8d128007df1095611686aa601000",
           "environment": {
-            "humidity": "62%",
+            "humidity": "63%",
             "pressure": "771mmHg",
             "temperature": "7°C",
             "weather": 1,
@@ -7609,7 +9073,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "62%",
+              "humidity": "63%",
               "pressure": "771mmHg",
               "temperature": "7°C",
               "weather": 1,
@@ -7638,7 +9102,7 @@
             },
             "season_id": "p4jwq2gh8l5m0ve",
             "status_id": 1,
-            "updated_at": 1772433615,
+            "updated_at": 1772436015,
             "venue_id": "d23xmvkhdkvqg8n"
           },
           "referee_id": "gpxwrxlh2ojryk0",
@@ -7646,7 +9110,7 @@
           "status_id": 1,
           "venue_id": "d23xmvkhdkvqg8n"
         },
-        "node_api_updated_at": "2026-03-02T07:13:48.266Z",
+        "node_api_updated_at": "2026-03-02T07:55:48.238Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
